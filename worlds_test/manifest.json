@@ -1,0 +1,78 @@
+{
+  "config": {
+    "model": "marble-1.1",
+    "seed": 12345
+  },
+  "frames": {
+    "frame_0000": {
+      "status": "downloaded",
+      "media_asset_id": "94983e6d-1056-4dbc-93c0-8d8774ff0d5a",
+      "operation_id": "bc3a5d0e-f6b9-4ca8-b11f-bdc2b8e9d0e5",
+      "cost": 1500,
+      "world_id": "e95cf44e-2e3a-4c5e-9f67-6ecb7692b4e8"
+    },
+    "frame_0006": {
+      "status": "downloaded",
+      "media_asset_id": "9b5c6890-981c-4b2d-abd6-bae3fceae584",
+      "operation_id": "c634df6c-f48d-47fe-8cda-f29df6373724",
+      "cost": 1500,
+      "world_id": "3614aabf-398c-4aeb-8c68-6bebe7347aab"
+    },
+    "frame_0012": {
+      "status": "downloaded",
+      "media_asset_id": "87dd3702-6ded-4167-ab0b-2d5621184410",
+      "operation_id": "7a0ffdce-dcf9-4512-a969-5242c3c40681",
+      "cost": 1500,
+      "world_id": "d8e8fce7-21bd-4b8b-af24-94325c7c4826"
+    },
+    "frame_0018": {
+      "status": "downloaded",
+      "media_asset_id": "fe3bf6d5-ebd6-4238-81e0-a87e8bb5bc97",
+      "operation_id": "57c27172-47f7-4b85-8429-af4c7faf0b50",
+      "cost": 1500,
+      "world_id": "1506e443-2988-47ba-8452-750b928f8dda"
+    },
+    "frame_0024": {
+      "status": "downloaded",
+      "media_asset_id": "8e214ce4-f236-45b4-9536-f8e5b0af7470",
+      "operation_id": "48b2f713-2f34-4848-b8e2-8b6e1c4194f8",
+      "cost": 1500,
+      "world_id": "4e7ebb5a-84ea-4e53-80a4-a6455e1fc39d"
+    },
+    "frame_0030": {
+      "status": "downloaded",
+      "media_asset_id": "2a8dc909-6102-4e03-a167-9787d73978d7",
+      "operation_id": "c4f31424-b203-466b-bf50-87753bac56b4",
+      "cost": 1500,
+      "world_id": "a36b9e40-9177-4935-ab69-85606a361aee"
+    },
+    "frame_0036": {
+      "status": "downloaded",
+      "media_asset_id": "7317a4fb-8cc8-4310-a9d2-e81a42eb5c1b",
+      "operation_id": "ae98d8cd-50aa-4e0a-9ecf-b80926b6382a",
+      "cost": 1500,
+      "world_id": "c6d7e913-ea3e-4fa1-a5a6-64c8b39410a4"
+    },
+    "frame_0042": {
+      "status": "downloaded",
+      "media_asset_id": "b3ea5868-2e82-4947-9ab4-2e13a78e9b69",
+      "operation_id": "09579a3f-e28f-41f5-8442-0e422a2c1499",
+      "cost": 1500,
+      "world_id": "374a6126-c867-4f8f-8f1a-13f7f05daae2"
+    },
+    "frame_0048": {
+      "status": "downloaded",
+      "media_asset_id": "24919f0e-bd91-493f-ace1-12a6856be2b5",
+      "operation_id": "3c097bcd-441a-43a3-83d3-929e84db24d2",
+      "cost": 1500,
+      "world_id": "3ce20244-0eb2-4181-80f2-3e810d941222"
+    },
+    "frame_0054": {
+      "status": "downloaded",
+      "media_asset_id": "6e3f6692-57d3-43e3-b4b2-73ec31d08346",
+      "operation_id": "ba97fbc2-c6a5-4f12-993d-011ae366ef2d",
+      "cost": 1500,
+      "world_id": "c0ed92b3-9edb-423d-8742-6034eaded4a5"
+    }
+  }
+}
