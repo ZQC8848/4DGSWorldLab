@@ -32,6 +32,7 @@
   <div>播放 fps: <input id="fps" type="range" min="1" max="30" step="1" value="24">
        <span id="fpsLabel">24</span> · 实际切换: <span id="switchFps">–</span> fps</div>
   <div class="dim">空格=播放/暂停 · ←/→=单步 · R=上下翻转 · 鼠标拖动=视角 · 滚轮=缩放</div>
+  <div class="dim">WASD=平移 · Q/E=降/升 · Shift=加速</div>
 </div>
 <script type="module">
 import * as THREE from "three";
@@ -97,20 +98,48 @@ function show(i) {
 group.add(meshes[0]);
 $("frameLabel").textContent = FRAMES[0];
 
+// WASDQE 自由移动:按住的键存入集合,每帧按相机朝向积分位移
+const heldKeys = new Set();
+const MOVE_KEYS = ["KeyW", "KeyA", "KeyS", "KeyD", "KeyQ", "KeyE", "ShiftLeft", "ShiftRight"];
+const BASE_SPEED = 1.5;  // 单位/秒,Shift ×3
+
 addEventListener("keydown", e => {
+  if (MOVE_KEYS.includes(e.code)) { heldKeys.add(e.code); return; }
   if (e.code === "Space") { playing = !playing; e.preventDefault(); }
   else if (e.code === "ArrowRight") show(cur + 1);
   else if (e.code === "ArrowLeft") show(cur - 1);
   else if (e.code === "KeyR") group.rotateX(Math.PI);
   $("playState").textContent = playing ? "▶" : "⏸";
 });
+addEventListener("keyup", e => heldKeys.delete(e.code));
+addEventListener("blur", () => heldKeys.clear());  // 失焦时清空,防止按键卡死
+
+const _fwd = new THREE.Vector3(), _right = new THREE.Vector3(), _move = new THREE.Vector3();
+function applyMovement(dt) {
+  if (!heldKeys.size) return;
+  camera.getWorldDirection(_fwd);
+  _right.crossVectors(_fwd, camera.up).normalize();
+  _move.set(0, 0, 0);
+  if (heldKeys.has("KeyW")) _move.add(_fwd);
+  if (heldKeys.has("KeyS")) _move.sub(_fwd);
+  if (heldKeys.has("KeyD")) _move.add(_right);
+  if (heldKeys.has("KeyA")) _move.sub(_right);
+  if (heldKeys.has("KeyE")) _move.y += 1;
+  if (heldKeys.has("KeyQ")) _move.y -= 1;
+  if (_move.lengthSq() === 0) return;
+  const speed = BASE_SPEED * (heldKeys.has("ShiftLeft") || heldKeys.has("ShiftRight") ? 3 : 1);
+  _move.normalize().multiplyScalar(speed * dt);
+  camera.position.add(_move);
+  controls.target.add(_move);  // 目标点同步平移,轨道旋转仍围绕视点前方
+}
 
 $("fps").addEventListener("input", e => {
   fps = +e.target.value;
   $("fpsLabel").textContent = fps;
 });
 
-window.__app = { scene, camera, renderer, spark, meshes, group, THREE };
+window.__app = { scene, camera, renderer, spark, meshes, group, THREE,
+                 applyMovement: dt => applyMovement(dt), heldKeys };
 // 调试钩子: 供外部强制渲染一帧并采样像素(rAF 被浏览器暂停时用)
 window.__debugRender = () => {
   spark.update({ scene, camera });
@@ -143,6 +172,7 @@ renderer.setAnimationLoop(() => {
     if (acc >= 1 / fps) { acc -= 1 / fps; show(cur + 1); }
     if (acc > 1) acc = 0;  // 卡顿后不补帧,避免连环追赶
   }
+  applyMovement(dt);
   controls.update();
   renderer.render(scene, camera);
 });
