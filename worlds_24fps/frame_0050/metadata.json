@@ -1,0 +1,44 @@
+{
+  "frame": "frame_0050",
+  "world_id": "e2b15efd-e38d-4497-8f19-4e95ff00b186",
+  "operation_id": "58017f3c-9d9e-4c9f-8ad5-e6d19d49d346",
+  "cost_credits": 1500,
+  "model": "marble-1.1",
+  "seed": 12345,
+  "downloaded_spz_resolution": "full_res",
+  "spz_urls": {
+    "500k": "https://cdn.marble.worldlabs.ai/e2b15efd-e38d-4497-8f19-4e95ff00b186/4f3cdf02-d946-4e3a-ba9e-43c0796a6d9d_ceramic_500k.spz",
+    "100k": "https://cdn.marble.worldlabs.ai/e2b15efd-e38d-4497-8f19-4e95ff00b186/22ca810b-76fe-4ac2-b77b-557a7a75b80d_dust_100k.spz",
+    "150k": "https://cdn.marble.worldlabs.ai/e2b15efd-e38d-4497-8f19-4e95ff00b186/bae89973-793e-4aaf-9745-f6717aed4954_ceramic_150k.spz",
+    "full_res": "https://cdn.marble.worldlabs.ai/e2b15efd-e38d-4497-8f19-4e95ff00b186/d42e4423-4e1a-473f-a3c4-6ecdce99b433_ceramic.spz"
+  },
+  "semantics_metadata": {
+    "metric_scale_factor": 1.480439,
+    "ground_plane_offset": 1.5269096
+  },
+  "world_marble_url": "https://marble.worldlabs.ai/world/e2b15efd-e38d-4497-8f19-4e95ff00b186",
+  "assets": {
+    "mesh": {
+      "collider_mesh_url": "https://cdn.marble.worldlabs.ai/e2b15efd-e38d-4497-8f19-4e95ff00b186/81ca2108.glb",
+      "hq_mesh_url": null,
+      "full_res_mesh_url": null
+    },
+    "imagery": {
+      "pano_url": "https://cdn.marble.worldlabs.ai/e2b15efd-e38d-4497-8f19-4e95ff00b186/6e695dd2-53e9-4746-9b2c-c2735f15d281_panos/rgb_0.png"
+    },
+    "splats": {
+      "spz_urls": {
+        "500k": "https://cdn.marble.worldlabs.ai/e2b15efd-e38d-4497-8f19-4e95ff00b186/4f3cdf02-d946-4e3a-ba9e-43c0796a6d9d_ceramic_500k.spz",
+        "100k": "https://cdn.marble.worldlabs.ai/e2b15efd-e38d-4497-8f19-4e95ff00b186/22ca810b-76fe-4ac2-b77b-557a7a75b80d_dust_100k.spz",
+        "150k": "https://cdn.marble.worldlabs.ai/e2b15efd-e38d-4497-8f19-4e95ff00b186/bae89973-793e-4aaf-9745-f6717aed4954_ceramic_150k.spz",
+        "full_res": "https://cdn.marble.worldlabs.ai/e2b15efd-e38d-4497-8f19-4e95ff00b186/d42e4423-4e1a-473f-a3c4-6ecdce99b433_ceramic.spz"
+      },
+      "semantics_metadata": {
+        "metric_scale_factor": 1.480439,
+        "ground_plane_offset": 1.5269096
+      }
+    },
+    "thumbnail_url": "https://cdn.marble.worldlabs.ai/e2b15efd-e38d-4497-8f19-4e95ff00b186/890add9d-6a51-4849-a5d4-a8736281a6d4_sand_mpi/thumbnail.webp",
+    "caption": "The scene is a fantastical treehouse interior, rendered in a painterly style, evoking a cozy and magical autumn ambiance. The overall tone is enchanting and warm, inviting quiet contemplation amidst nature's embrace. The interior walls are seamlessly integrated with massive, gnarled tree trunks and roots that climb towards the unseen ceiling, their surfaces densely covered in vibrant orange and red autumnal leaves, creating a living, organic dwelling. Scattered among the leaves, delicate flowering vines intertwine with the woody structures. The floor is made of large, irregular stone slabs, worn smooth over time, with fallen leaves scattered across its surface, mirroring the foliage on the walls. Three prominent circular windows, reminiscent of hobbit holes, punctuate the tree walls, each offering a glowing view of an unseen, sun-drenched autumn landscape, hinting at a world vibrant with golden light outside. On the far left, a rustic wooden desk holds an array of ancient-looking books, candelabras with lit candles, and various glass bottles containing colorful liquids, suggesting alchemical studies or herbal remedies. Above the desk, dried herbs hang from a wooden rack, further enhancing the mystical atmosphere. In the central section, a plush bed with an inviting orange blanket rests beneath another large circular window, surrounded by more climbing vines and leaves. To the right, a smaller, raised section of the floor leads to a cozy nook with a single armchair, positioned beside the third circular window, complete with its own bookshelf filled with volumes, creating a perfect reading retreat. The entire structure feels deeply rooted and harmonious with its natural surroundings. The 360 scene is faultless."
+  }
+}

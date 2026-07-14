@@ -1,0 +1,44 @@
+{
+  "frame": "frame_0049",
+  "world_id": "d96f0b87-2a51-400e-a475-92c063400909",
+  "operation_id": "7355c745-877a-466f-b383-43a64c752c84",
+  "cost_credits": 1500,
+  "model": "marble-1.1",
+  "seed": 12345,
+  "downloaded_spz_resolution": "full_res",
+  "spz_urls": {
+    "500k": "https://cdn.marble.worldlabs.ai/d96f0b87-2a51-400e-a475-92c063400909/4c7ee462-14ea-4ae2-b6b9-c3900714c2bf_ceramic_500k.spz",
+    "100k": "https://cdn.marble.worldlabs.ai/d96f0b87-2a51-400e-a475-92c063400909/25d00d10-ead5-4dd3-8108-e29f16565fa3_dust_100k.spz",
+    "150k": "https://cdn.marble.worldlabs.ai/d96f0b87-2a51-400e-a475-92c063400909/c7057924-613b-4e00-ad56-9a955e55355f_ceramic_150k.spz",
+    "full_res": "https://cdn.marble.worldlabs.ai/d96f0b87-2a51-400e-a475-92c063400909/54a3301c-b0f4-4dc9-8bf4-6ddf720107b6_ceramic.spz"
+  },
+  "semantics_metadata": {
+    "metric_scale_factor": 1.4699818,
+    "ground_plane_offset": 1.533885
+  },
+  "world_marble_url": "https://marble.worldlabs.ai/world/d96f0b87-2a51-400e-a475-92c063400909",
+  "assets": {
+    "mesh": {
+      "collider_mesh_url": "https://cdn.marble.worldlabs.ai/d96f0b87-2a51-400e-a475-92c063400909/457ffc0e.glb",
+      "hq_mesh_url": null,
+      "full_res_mesh_url": null
+    },
+    "imagery": {
+      "pano_url": "https://cdn.marble.worldlabs.ai/d96f0b87-2a51-400e-a475-92c063400909/5d28fae9-3988-445c-b7d3-9400afbbfaa6_panos/rgb_0.png"
+    },
+    "splats": {
+      "spz_urls": {
+        "500k": "https://cdn.marble.worldlabs.ai/d96f0b87-2a51-400e-a475-92c063400909/4c7ee462-14ea-4ae2-b6b9-c3900714c2bf_ceramic_500k.spz",
+        "100k": "https://cdn.marble.worldlabs.ai/d96f0b87-2a51-400e-a475-92c063400909/25d00d10-ead5-4dd3-8108-e29f16565fa3_dust_100k.spz",
+        "150k": "https://cdn.marble.worldlabs.ai/d96f0b87-2a51-400e-a475-92c063400909/c7057924-613b-4e00-ad56-9a955e55355f_ceramic_150k.spz",
+        "full_res": "https://cdn.marble.worldlabs.ai/d96f0b87-2a51-400e-a475-92c063400909/54a3301c-b0f4-4dc9-8bf4-6ddf720107b6_ceramic.spz"
+      },
+      "semantics_metadata": {
+        "metric_scale_factor": 1.4699818,
+        "ground_plane_offset": 1.533885
+      }
+    },
+    "thumbnail_url": "https://cdn.marble.worldlabs.ai/d96f0b87-2a51-400e-a475-92c063400909/28402a82-a3b3-4d42-a472-e132a71454c5_sand_mpi/thumbnail.webp",
+    "caption": "The scene is a magical fantasy tree house interior, rendered in a painterly style with vibrant autumn colors, creating a cozy and enchanting atmosphere. The overall tone is whimsical and inviting, reminiscent of a hobbit-hole or an enchanted forest dwelling. The walls and ceiling are organic, formed by intertwining tree roots and branches that are densely covered with orange and red autumn leaves, giving the impression of being nestled within a living tree. The floor is composed of large, irregular stone slabs, with fallen leaves scattered across their surface, blending the natural elements with the structural. Multiple circular windows, reminiscent of portholes, offer glimpses of a bright, sunlit autumnal landscape outside, suggesting the tree house is situated within a vibrant forest. To the far left, a sturdy wooden desk holds an array of alchemical-looking bottles, candles, and ancient books, with dried herbs hanging above it, indicating a workspace for crafting or study. Next to this desk, a round window opens to the outside world, illuminating the area. A small wooden bookshelf filled with various potions and tomes is nestled between two of the tree trunks, close to another large circular window. A plush bed, draped with a thick, textured orange blanket and adorned with a garland of small flowers, is positioned beneath one of the prominent round windows, suggesting a comfortable sleeping area. To the right of the bed, a smaller, elevated circular alcove features a single cozy armchair and a small side table, illuminated by yet another round window, creating a perfect reading nook. The tree trunks form natural archways and divisions within the space, each one intricately detailed with bark and covered in foliage. The 360 scene is faultless."
+  }
+}

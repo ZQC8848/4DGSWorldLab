@@ -1,0 +1,44 @@
+{
+  "frame": "frame_0023",
+  "world_id": "bbec6994-ad0f-4935-b4bc-89eae2d40cee",
+  "operation_id": "2a0d5638-60ce-4997-a406-fbebf3ef6c78",
+  "cost_credits": 1500,
+  "model": "marble-1.1",
+  "seed": 12345,
+  "downloaded_spz_resolution": "full_res",
+  "spz_urls": {
+    "500k": "https://cdn.marble.worldlabs.ai/bbec6994-ad0f-4935-b4bc-89eae2d40cee/e9cab76f-c2d3-403d-a2a7-fa259dd12141_ceramic_500k.spz",
+    "100k": "https://cdn.marble.worldlabs.ai/bbec6994-ad0f-4935-b4bc-89eae2d40cee/d3547f6f-6f00-46d8-a399-0801fce0d09e_dust_100k.spz",
+    "150k": "https://cdn.marble.worldlabs.ai/bbec6994-ad0f-4935-b4bc-89eae2d40cee/a0234103-390c-4887-b9cd-777d80097f05_ceramic_150k.spz",
+    "full_res": "https://cdn.marble.worldlabs.ai/bbec6994-ad0f-4935-b4bc-89eae2d40cee/64dfca67-928f-4b2b-8333-957939c97725_ceramic.spz"
+  },
+  "semantics_metadata": {
+    "metric_scale_factor": 1.4747741,
+    "ground_plane_offset": 1.5734285
+  },
+  "world_marble_url": "https://marble.worldlabs.ai/world/bbec6994-ad0f-4935-b4bc-89eae2d40cee",
+  "assets": {
+    "mesh": {
+      "collider_mesh_url": "https://cdn.marble.worldlabs.ai/bbec6994-ad0f-4935-b4bc-89eae2d40cee/91201338.glb",
+      "hq_mesh_url": null,
+      "full_res_mesh_url": null
+    },
+    "imagery": {
+      "pano_url": "https://cdn.marble.worldlabs.ai/bbec6994-ad0f-4935-b4bc-89eae2d40cee/c6b6f6ef-c491-4b37-ad92-745c52e521a0_panos/rgb_0.png"
+    },
+    "splats": {
+      "spz_urls": {
+        "500k": "https://cdn.marble.worldlabs.ai/bbec6994-ad0f-4935-b4bc-89eae2d40cee/e9cab76f-c2d3-403d-a2a7-fa259dd12141_ceramic_500k.spz",
+        "100k": "https://cdn.marble.worldlabs.ai/bbec6994-ad0f-4935-b4bc-89eae2d40cee/d3547f6f-6f00-46d8-a399-0801fce0d09e_dust_100k.spz",
+        "150k": "https://cdn.marble.worldlabs.ai/bbec6994-ad0f-4935-b4bc-89eae2d40cee/a0234103-390c-4887-b9cd-777d80097f05_ceramic_150k.spz",
+        "full_res": "https://cdn.marble.worldlabs.ai/bbec6994-ad0f-4935-b4bc-89eae2d40cee/64dfca67-928f-4b2b-8333-957939c97725_ceramic.spz"
+      },
+      "semantics_metadata": {
+        "metric_scale_factor": 1.4747741,
+        "ground_plane_offset": 1.5734285
+      }
+    },
+    "thumbnail_url": "https://cdn.marble.worldlabs.ai/bbec6994-ad0f-4935-b4bc-89eae2d40cee/7765b672-4157-452f-bae8-a4bccaa5486d_sand_mpi/thumbnail.webp",
+    "caption": "The scene is a magical treehouse interior, rendered in a whimsical, illustrative style that evokes a sense of wonder and coziness. The overall tone is enchanting and serene, bathed in warm, soft light that filters through the canopy. The treehouse structure is organically integrated with ancient, gnarled tree trunks and branches that form the walls and ceiling, adorned with vibrant green vines and small white and pink blossoms. The floor is composed of large, irregular stone pavers, covered in creeping moss and ivy. Circular windows with intricate wooden frames offer glimpses of a bright, sunlit forest outside, suggesting a lush, verdant landscape surrounding this hidden dwelling. A comfortable bed with a plush, olive-green duvet is nestled between two large tree trunks, inviting relaxation. On the opposite side, a rustic wooden desk holds various alchemical bottles, old books, and glowing candles, indicating a space for study or craft. Shelves carved into the tree trunks display more bottles and curiosities, hinting at mystical pursuits. Another circular alcove, higher than the main floor and accessible by a few steps, reveals a cozy reading nook with an armchair, suggesting additional intimate spaces within this arboreal home. The tree trunks continue their ascent, creating a natural vaulted ceiling that branches outwards, forming an organic canopy overhead. The vines and blossoms continue to entwine around the upper branches and along the walls, creating a continuous natural tapestry. Further circular windows, similar in design, punctuate the treehouse walls, providing consistent views of the sunlit forest. The stone floor extends throughout the entire space, maintaining its mossy, organic appearance, and the gentle glow from the outside permeates every corner, ensuring a consistent magical ambiance. The 360 scene is faultless."
+  }
+}

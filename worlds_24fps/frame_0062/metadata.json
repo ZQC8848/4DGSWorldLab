@@ -1,0 +1,44 @@
+{
+  "frame": "frame_0062",
+  "world_id": "c0d07a6b-4647-4bfe-9ad4-aa57dcfc9a1b",
+  "operation_id": "9db8e0f4-ab78-41e2-9adf-9f160d5f8d8a",
+  "cost_credits": 1500,
+  "model": "marble-1.1",
+  "seed": 12345,
+  "downloaded_spz_resolution": "full_res",
+  "spz_urls": {
+    "500k": "https://cdn.marble.worldlabs.ai/c0d07a6b-4647-4bfe-9ad4-aa57dcfc9a1b/3451f82a-6c38-4c80-8d3f-1bd3dc6731fa_ceramic_500k.spz",
+    "100k": "https://cdn.marble.worldlabs.ai/c0d07a6b-4647-4bfe-9ad4-aa57dcfc9a1b/752a09c7-af35-45c1-a827-4c26a5a4967c_dust_100k.spz",
+    "150k": "https://cdn.marble.worldlabs.ai/c0d07a6b-4647-4bfe-9ad4-aa57dcfc9a1b/5a199a4b-a73f-47da-9f47-07e5c8a9aaaa_ceramic_150k.spz",
+    "full_res": "https://cdn.marble.worldlabs.ai/c0d07a6b-4647-4bfe-9ad4-aa57dcfc9a1b/faf59633-a496-4eab-b1d9-ac5cd0e34ed7_ceramic.spz"
+  },
+  "semantics_metadata": {
+    "metric_scale_factor": 1.4684339,
+    "ground_plane_offset": 1.5254612
+  },
+  "world_marble_url": "https://marble.worldlabs.ai/world/c0d07a6b-4647-4bfe-9ad4-aa57dcfc9a1b",
+  "assets": {
+    "mesh": {
+      "collider_mesh_url": "https://cdn.marble.worldlabs.ai/c0d07a6b-4647-4bfe-9ad4-aa57dcfc9a1b/9a02592b.glb",
+      "hq_mesh_url": null,
+      "full_res_mesh_url": null
+    },
+    "imagery": {
+      "pano_url": "https://cdn.marble.worldlabs.ai/c0d07a6b-4647-4bfe-9ad4-aa57dcfc9a1b/cc3d1aac-eb92-4e0b-bcae-4aa86a45a629_panos/rgb_0.png"
+    },
+    "splats": {
+      "spz_urls": {
+        "500k": "https://cdn.marble.worldlabs.ai/c0d07a6b-4647-4bfe-9ad4-aa57dcfc9a1b/3451f82a-6c38-4c80-8d3f-1bd3dc6731fa_ceramic_500k.spz",
+        "100k": "https://cdn.marble.worldlabs.ai/c0d07a6b-4647-4bfe-9ad4-aa57dcfc9a1b/752a09c7-af35-45c1-a827-4c26a5a4967c_dust_100k.spz",
+        "150k": "https://cdn.marble.worldlabs.ai/c0d07a6b-4647-4bfe-9ad4-aa57dcfc9a1b/5a199a4b-a73f-47da-9f47-07e5c8a9aaaa_ceramic_150k.spz",
+        "full_res": "https://cdn.marble.worldlabs.ai/c0d07a6b-4647-4bfe-9ad4-aa57dcfc9a1b/faf59633-a496-4eab-b1d9-ac5cd0e34ed7_ceramic.spz"
+      },
+      "semantics_metadata": {
+        "metric_scale_factor": 1.4684339,
+        "ground_plane_offset": 1.5254612
+      }
+    },
+    "thumbnail_url": "https://cdn.marble.worldlabs.ai/c0d07a6b-4647-4bfe-9ad4-aa57dcfc9a1b/a7edcb99-e39c-46b0-aae9-fa2694c429ab_sand_mpi/thumbnail.webp",
+    "caption": "The scene is a magical and cozy treehouse interior, presented in a fantastical painting style that evokes a sense of whimsical charm and warmth. The overall tone is enchanting and peaceful, with a rich, autumnal color palette dominating the environment. The interior of the treehouse is intricately carved into the living wood of ancient trees, with thick branches forming the structural elements and walls. Everywhere, the walls are adorned with an abundance of vibrant orange and red autumnal leaves, creating a soft, textured covering that extends from the floor to the high ceiling. On the left, a sturdy wooden desk is placed against a leaf-covered wall, holding various bottles and flasks containing colorful liquids, alongside candles that emit a soft, inviting glow. Books are stacked neatly on the desk, suggesting a scholarly or meditative retreat. Adjacent to the desk, a circular window with an ornate wooden frame offers a view of a bright, sun-drenched landscape, likely an expansive forest or a clearing, filtering warm light into the room. In the center of the treehouse, a comfortable bed with a plush, orange-brown duvet is nestled against another leaf-covered wall, illuminated by a similar circular window that provides another scenic view. Above the bed, a collection of shelves carved into the tree trunk houses more bottles and possibly herbs, hinting at potions or natural remedies. To the right, a set of three steps, also made from natural wood, leads to a smaller, elevated nook. This cozy corner features a comfortable armchair with a soft cushion, positioned near a third circular window that overlooks another part of the enchanting landscape. The floor throughout the treehouse is made of large, irregularly shaped stone slabs, with fallen autumn leaves scattered across them, adding to the rustic and natural ambiance. Vines and smaller branches with leaves intertwine around the windows and along the walls, seamlessly integrating the natural elements into the living space. The 360 scene is faultless."
+  }
+}

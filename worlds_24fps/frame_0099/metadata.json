@@ -1,0 +1,44 @@
+{
+  "frame": "frame_0099",
+  "world_id": "734edab8-7797-4b86-87a3-146c15a579a0",
+  "operation_id": "3090ce76-3165-408f-9b84-e0674dc88e20",
+  "cost_credits": 1500,
+  "model": "marble-1.1",
+  "seed": 12345,
+  "downloaded_spz_resolution": "full_res",
+  "spz_urls": {
+    "500k": "https://cdn.marble.worldlabs.ai/734edab8-7797-4b86-87a3-146c15a579a0/0ea75517-1b3a-434b-a8cf-dcc1e1f7a52b_ceramic_500k.spz",
+    "100k": "https://cdn.marble.worldlabs.ai/734edab8-7797-4b86-87a3-146c15a579a0/6b1558f2-51de-447b-8ac7-eef9468b7db0_dust_100k.spz",
+    "150k": "https://cdn.marble.worldlabs.ai/734edab8-7797-4b86-87a3-146c15a579a0/d8865304-c1af-49b8-99b1-7a28969bab8e_ceramic_150k.spz",
+    "full_res": "https://cdn.marble.worldlabs.ai/734edab8-7797-4b86-87a3-146c15a579a0/92c6dc53-6ccc-4841-89ec-2560f858b651_ceramic.spz"
+  },
+  "semantics_metadata": {
+    "metric_scale_factor": 1.476038,
+    "ground_plane_offset": 1.5352256
+  },
+  "world_marble_url": "https://marble.worldlabs.ai/world/734edab8-7797-4b86-87a3-146c15a579a0",
+  "assets": {
+    "mesh": {
+      "collider_mesh_url": "https://cdn.marble.worldlabs.ai/734edab8-7797-4b86-87a3-146c15a579a0/43d40017.glb",
+      "hq_mesh_url": null,
+      "full_res_mesh_url": null
+    },
+    "imagery": {
+      "pano_url": "https://cdn.marble.worldlabs.ai/734edab8-7797-4b86-87a3-146c15a579a0/85a649b2-d9ca-441a-a187-341a12ed5827_panos/rgb_0.png"
+    },
+    "splats": {
+      "spz_urls": {
+        "500k": "https://cdn.marble.worldlabs.ai/734edab8-7797-4b86-87a3-146c15a579a0/0ea75517-1b3a-434b-a8cf-dcc1e1f7a52b_ceramic_500k.spz",
+        "100k": "https://cdn.marble.worldlabs.ai/734edab8-7797-4b86-87a3-146c15a579a0/6b1558f2-51de-447b-8ac7-eef9468b7db0_dust_100k.spz",
+        "150k": "https://cdn.marble.worldlabs.ai/734edab8-7797-4b86-87a3-146c15a579a0/d8865304-c1af-49b8-99b1-7a28969bab8e_ceramic_150k.spz",
+        "full_res": "https://cdn.marble.worldlabs.ai/734edab8-7797-4b86-87a3-146c15a579a0/92c6dc53-6ccc-4841-89ec-2560f858b651_ceramic.spz"
+      },
+      "semantics_metadata": {
+        "metric_scale_factor": 1.476038,
+        "ground_plane_offset": 1.5352256
+      }
+    },
+    "thumbnail_url": "https://cdn.marble.worldlabs.ai/734edab8-7797-4b86-87a3-146c15a579a0/4a897cd8-8512-495d-8512-ae20918dba79_sand_mpi/thumbnail.webp",
+    "caption": "The scene is a magical treehouse interior, rendered in a whimsical painting style, evoking a sense of cozy enchantment and mystical comfort. The overall tone is inviting and warm, bathed in the soft glow of an eternal autumn. The entire space is meticulously crafted from intertwining tree branches and roots, forming the walls, ceiling, and even structural elements, all adorned with a rich tapestry of vibrant orange and red autumn leaves that seem perpetually in bloom. On the left side of the room, a sturdy wooden desk is laden with an assortment of ancient books, flickering candles, and various glass bottles filled with colorful liquids, suggesting an alchemist's or scholar's workspace. A small, round window with intricate wooden latticework looks out onto a sun-drenched forest scene, allowing golden light to stream into the room. Centrally, a plush bed with an inviting orange blanket and soft pillows sits beneath another large, round window, offering a similar view of the autumnal woods. To the right of the bed, a set of wooden shelves built into the tree trunk holds an array of small bottles and curios. Further to the right, a stepped alcove with a circular entryway reveals a comfortable armchair, perfect for reading or contemplation, also illuminated by its own smaller, round window overlooking the same serene forest. The floor is composed of large, irregularly shaped flagstones, partially covered by fallen autumn leaves, creating a seamless transition from the natural exterior to the interior. The organic architecture ensures that the entire space flows harmoniously, with no sharp edges or artificial separations, making it feel like a living, breathing part of the forest. The tree branches above intertwine to form a natural canopy, with dappled light filtering through the dense foliage, and the various round windows are strategically placed to maximize natural light and views of the surrounding autumnal landscape. The 360 scene is faultless."
+  }
+}

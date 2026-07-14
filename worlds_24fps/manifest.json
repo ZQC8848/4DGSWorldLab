@@ -1,0 +1,858 @@
+{
+  "config": {
+    "model": "marble-1.1",
+    "seed": 12345
+  },
+  "frames": {
+    "frame_0000": {
+      "status": "downloaded",
+      "media_asset_id": "94983e6d-1056-4dbc-93c0-8d8774ff0d5a",
+      "operation_id": "bc3a5d0e-f6b9-4ca8-b11f-bdc2b8e9d0e5",
+      "cost": 1500,
+      "world_id": "e95cf44e-2e3a-4c5e-9f67-6ecb7692b4e8",
+      "reused_from": "worlds_test/frame_0000"
+    },
+    "frame_0012": {
+      "status": "downloaded",
+      "media_asset_id": "9b5c6890-981c-4b2d-abd6-bae3fceae584",
+      "operation_id": "c634df6c-f48d-47fe-8cda-f29df6373724",
+      "cost": 1500,
+      "world_id": "3614aabf-398c-4aeb-8c68-6bebe7347aab",
+      "reused_from": "worlds_test/frame_0006"
+    },
+    "frame_0024": {
+      "status": "downloaded",
+      "media_asset_id": "87dd3702-6ded-4167-ab0b-2d5621184410",
+      "operation_id": "7a0ffdce-dcf9-4512-a969-5242c3c40681",
+      "cost": 1500,
+      "world_id": "d8e8fce7-21bd-4b8b-af24-94325c7c4826",
+      "reused_from": "worlds_test/frame_0012"
+    },
+    "frame_0036": {
+      "status": "downloaded",
+      "media_asset_id": "fe3bf6d5-ebd6-4238-81e0-a87e8bb5bc97",
+      "operation_id": "57c27172-47f7-4b85-8429-af4c7faf0b50",
+      "cost": 1500,
+      "world_id": "1506e443-2988-47ba-8452-750b928f8dda",
+      "reused_from": "worlds_test/frame_0018"
+    },
+    "frame_0048": {
+      "status": "downloaded",
+      "media_asset_id": "8e214ce4-f236-45b4-9536-f8e5b0af7470",
+      "operation_id": "48b2f713-2f34-4848-b8e2-8b6e1c4194f8",
+      "cost": 1500,
+      "world_id": "4e7ebb5a-84ea-4e53-80a4-a6455e1fc39d",
+      "reused_from": "worlds_test/frame_0024"
+    },
+    "frame_0060": {
+      "status": "downloaded",
+      "media_asset_id": "2a8dc909-6102-4e03-a167-9787d73978d7",
+      "operation_id": "c4f31424-b203-466b-bf50-87753bac56b4",
+      "cost": 1500,
+      "world_id": "a36b9e40-9177-4935-ab69-85606a361aee",
+      "reused_from": "worlds_test/frame_0030"
+    },
+    "frame_0072": {
+      "status": "downloaded",
+      "media_asset_id": "7317a4fb-8cc8-4310-a9d2-e81a42eb5c1b",
+      "operation_id": "ae98d8cd-50aa-4e0a-9ecf-b80926b6382a",
+      "cost": 1500,
+      "world_id": "c6d7e913-ea3e-4fa1-a5a6-64c8b39410a4",
+      "reused_from": "worlds_test/frame_0036"
+    },
+    "frame_0084": {
+      "status": "downloaded",
+      "media_asset_id": "b3ea5868-2e82-4947-9ab4-2e13a78e9b69",
+      "operation_id": "09579a3f-e28f-41f5-8442-0e422a2c1499",
+      "cost": 1500,
+      "world_id": "374a6126-c867-4f8f-8f1a-13f7f05daae2",
+      "reused_from": "worlds_test/frame_0042"
+    },
+    "frame_0096": {
+      "status": "downloaded",
+      "media_asset_id": "24919f0e-bd91-493f-ace1-12a6856be2b5",
+      "operation_id": "3c097bcd-441a-43a3-83d3-929e84db24d2",
+      "cost": 1500,
+      "world_id": "3ce20244-0eb2-4181-80f2-3e810d941222",
+      "reused_from": "worlds_test/frame_0048"
+    },
+    "frame_0108": {
+      "status": "downloaded",
+      "media_asset_id": "6e3f6692-57d3-43e3-b4b2-73ec31d08346",
+      "operation_id": "ba97fbc2-c6a5-4f12-993d-011ae366ef2d",
+      "cost": 1500,
+      "world_id": "c0ed92b3-9edb-423d-8742-6034eaded4a5",
+      "reused_from": "worlds_test/frame_0054"
+    },
+    "frame_0001": {
+      "status": "downloaded",
+      "media_asset_id": "c7486fb9-8f4d-4aac-a477-6851012dc95b",
+      "operation_id": "1b64b66d-aafa-4382-be71-fae37fb3002e",
+      "cost": 1500,
+      "world_id": "3c846994-401c-4a94-bb6f-9378590d5622"
+    },
+    "frame_0002": {
+      "status": "downloaded",
+      "media_asset_id": "5c0534e1-51cf-4e50-abef-1582f8ec9bd2",
+      "operation_id": "7534d270-b7be-4880-a84e-92e023c382ae",
+      "cost": 1500,
+      "world_id": "b3f8cdb8-640d-428b-a4d8-5b1216569a19"
+    },
+    "frame_0003": {
+      "status": "downloaded",
+      "media_asset_id": "118ae4e5-834a-49a0-93e7-f8bcc3df519a",
+      "operation_id": "57e53272-ff2b-4252-bd60-03eee1dc4f32",
+      "cost": 1500,
+      "world_id": "62c4f7f6-9b72-45d7-b252-ee59b1684df0"
+    },
+    "frame_0004": {
+      "status": "downloaded",
+      "media_asset_id": "342a7d88-b198-464d-bd28-9f2367314180",
+      "operation_id": "43caf27d-ec64-4ff6-8ae5-0f40a743ade4",
+      "cost": 1500,
+      "world_id": "76d54a33-a741-4332-8c22-21ddc288ef50"
+    },
+    "frame_0005": {
+      "status": "downloaded",
+      "media_asset_id": "cf553995-7459-4811-9626-b7fd77669128",
+      "operation_id": "0e592dce-d859-42a0-b8bf-edeba192100e",
+      "cost": 1500,
+      "world_id": "3a21f18d-10c5-484d-8ccc-0c366a9c26bc"
+    },
+    "frame_0006": {
+      "status": "downloaded",
+      "media_asset_id": "940a2351-97d1-4103-83c6-cbfc191a92d7",
+      "operation_id": "54dcb215-88a0-4e0e-b40a-516104e17d67",
+      "cost": 1500,
+      "world_id": "be61bf50-3bb7-4913-87da-60499db17bdf"
+    },
+    "frame_0007": {
+      "status": "downloaded",
+      "media_asset_id": "929efec0-73bd-40ef-85b1-30f7a08dc936",
+      "operation_id": "d5e00516-611b-45ab-af52-d0cf8adeafc1",
+      "cost": 1500,
+      "world_id": "2020b7a4-b284-458c-b5d2-8feda1edf6b6"
+    },
+    "frame_0008": {
+      "status": "downloaded",
+      "media_asset_id": "558698c4-20c2-4af8-9ec7-41aa5ce17376",
+      "operation_id": "5162f6c1-9ffc-4b81-b8ba-d5f56cd517c3",
+      "cost": 1500,
+      "world_id": "3cf47319-7683-4a8f-90de-02e45bfc543c"
+    },
+    "frame_0009": {
+      "status": "downloaded",
+      "media_asset_id": "5ae1cdd8-b0cb-4827-a740-efcf0c94ffc2",
+      "operation_id": "47e37633-f1fb-44d4-82b8-2ed6828d14c5",
+      "cost": 1500,
+      "world_id": "c8efa3dc-f1c0-42d9-a28c-f11c1c9f191b"
+    },
+    "frame_0010": {
+      "status": "downloaded",
+      "media_asset_id": "829cab57-a2a4-4984-b01e-5f185c980884",
+      "operation_id": "82c7d850-6ceb-447f-9f2c-9630faef88cd",
+      "cost": 1500,
+      "world_id": "6efe4b9c-7ee8-4b48-b594-316402f2ac4e"
+    },
+    "frame_0011": {
+      "status": "downloaded",
+      "media_asset_id": "24f19fb8-e749-414a-b00d-7d12bf8054e0",
+      "operation_id": "c7d6859d-107c-49a9-be25-7ce2f0b31863",
+      "cost": 1500,
+      "world_id": "be17fb44-33f9-4757-a265-bd995b27ac46"
+    },
+    "frame_0013": {
+      "status": "downloaded",
+      "media_asset_id": "1796a083-5f34-4e38-acd8-463972febbf8",
+      "operation_id": "a672ceaf-7a34-4a31-8d02-e83168097d4b",
+      "cost": 1500,
+      "world_id": "87b24788-cb0c-4259-b5ed-756ddc9769c6"
+    },
+    "frame_0014": {
+      "status": "downloaded",
+      "media_asset_id": "3ece2b7f-afef-4c4e-9f1e-a59cbbfd4a17",
+      "operation_id": "93e59a8e-815e-41e0-946a-8cfd2b1671b8",
+      "cost": 1500,
+      "world_id": "1448bb39-83e3-4b77-90e2-bdd7049617d5"
+    },
+    "frame_0015": {
+      "status": "downloaded",
+      "media_asset_id": "c26afc46-cba5-470f-b6ee-73bbe8855dbb",
+      "operation_id": "45142efc-6160-4522-b7b4-031071ac3d9f",
+      "cost": 1500,
+      "world_id": "7c5ac479-fe72-464d-b4d9-76c034fabb4c"
+    },
+    "frame_0016": {
+      "status": "downloaded",
+      "media_asset_id": "0db6e995-a5bc-44be-9f44-96bc213ca162",
+      "operation_id": "b36d39f6-d593-4a81-988a-38f077ad1fb9",
+      "cost": 1500,
+      "world_id": "9cc766c9-4145-4fd5-a0e8-d12d9b57b7cd"
+    },
+    "frame_0017": {
+      "status": "downloaded",
+      "media_asset_id": "eba40071-6dac-4604-b1ec-0c75b12c4849",
+      "operation_id": "387e2009-0e59-4284-a13a-2aecaacdcc41",
+      "cost": 1500,
+      "world_id": "4394920b-3850-4b5d-8e87-a615eadb629e"
+    },
+    "frame_0018": {
+      "status": "downloaded",
+      "media_asset_id": "feb8c9e4-e674-4199-9f0f-0be4c911141d",
+      "operation_id": "bdd5971a-f7fa-4f68-8149-b87385c3afdf",
+      "cost": 1500,
+      "world_id": "97785809-298f-4b5e-83ee-a6249be3896a"
+    },
+    "frame_0019": {
+      "status": "downloaded",
+      "media_asset_id": "8468f257-cc72-4d6f-b2df-796aa2d869a2",
+      "operation_id": "8a42d86a-c6f1-4fec-8bb2-54456866a5b1",
+      "cost": 1500,
+      "world_id": "f9af0004-b53f-460a-b05e-3372fce44e57"
+    },
+    "frame_0020": {
+      "status": "downloaded",
+      "media_asset_id": "1545d533-0d13-421c-b9f5-d933e19a8f80",
+      "operation_id": "99fbf17d-9b03-4ce9-995b-2d446511b8e3",
+      "cost": 1500,
+      "world_id": "606c40d8-7d03-4dad-b4dc-9e6160be4f69"
+    },
+    "frame_0021": {
+      "status": "downloaded",
+      "media_asset_id": "89302e01-e310-45ad-a243-e4b8ea3a1e83",
+      "operation_id": "0dfc707c-d12b-46ed-8a10-ee9667f6db79",
+      "cost": 1500,
+      "world_id": "fbde7c59-9ddb-4de3-b334-864e599567bd"
+    },
+    "frame_0022": {
+      "status": "downloaded",
+      "media_asset_id": "416174f0-fd7c-4055-818d-4360afa4e7d7",
+      "operation_id": "8e8b3921-7230-440b-9b9a-4d404b328fab",
+      "cost": 1500,
+      "world_id": "14dc7601-4efd-4bfb-b220-e7ccfa9bcde3"
+    },
+    "frame_0023": {
+      "status": "downloaded",
+      "media_asset_id": "b4f7fd56-7476-49c1-93dd-53e80c77e9a9",
+      "operation_id": "2a0d5638-60ce-4997-a406-fbebf3ef6c78",
+      "cost": 1500,
+      "world_id": "bbec6994-ad0f-4935-b4bc-89eae2d40cee"
+    },
+    "frame_0025": {
+      "status": "downloaded",
+      "media_asset_id": "2a4e8426-3f28-4f4c-9376-cfb9c6bda267",
+      "operation_id": "76d097c8-83ab-4730-a591-7680f1e71614",
+      "cost": 1500,
+      "world_id": "a48d3576-ce90-44d0-b7db-2e0de67da383"
+    },
+    "frame_0026": {
+      "status": "downloaded",
+      "media_asset_id": "1205d294-3a7a-48f9-b295-3db56fb32e19",
+      "operation_id": "b3466e1f-8631-46be-a545-cdccebec48e4",
+      "cost": 1500,
+      "world_id": "34834b67-df45-410f-be5f-b07a437bb78c"
+    },
+    "frame_0027": {
+      "status": "downloaded",
+      "media_asset_id": "c43fb125-841c-429d-9877-83a5b1f064f6",
+      "operation_id": "7496fe04-f12f-4be3-8ccf-f6d249d1459c",
+      "cost": 1500,
+      "world_id": "7436373c-9431-4770-a70b-a70762026ca1"
+    },
+    "frame_0028": {
+      "status": "downloaded",
+      "media_asset_id": "9dd15aa6-2f3f-4a8e-b700-68a785a95fba",
+      "operation_id": "a70db232-984b-40c6-b0ae-76bb25746388",
+      "cost": 1500,
+      "world_id": "3cae751e-b7b4-4215-940d-fad704b02c50"
+    },
+    "frame_0029": {
+      "status": "downloaded",
+      "media_asset_id": "91bdf1cf-30c9-44dd-84f0-0c9bab8d1ab5",
+      "operation_id": "7d195a3a-1fef-46c7-8dc9-5ea0162e8b9e",
+      "cost": 1500,
+      "world_id": "0a22480b-8b0a-49f4-8f8c-423bbc678333"
+    },
+    "frame_0030": {
+      "status": "downloaded",
+      "media_asset_id": "a70776b7-f994-45e7-8803-4a8d636d2254",
+      "operation_id": "9a9ada3f-573f-4b49-bd31-536ff9a62215",
+      "cost": 1500,
+      "world_id": "ff49273a-0b6e-4484-8eb9-7fe416431de0"
+    },
+    "frame_0031": {
+      "status": "downloaded",
+      "media_asset_id": "f545848a-0328-4069-9b4c-0b5f625a4890",
+      "operation_id": "4001f63c-925f-4881-b76f-c1e60499b5f0",
+      "cost": 1500,
+      "world_id": "6a5fc18d-3125-4ab2-8cc8-dfcd7f882c9c"
+    },
+    "frame_0032": {
+      "status": "downloaded",
+      "media_asset_id": "7ad9b591-5915-4035-b3e8-3991687d7eb4",
+      "operation_id": "1c3c1c23-de43-4232-b354-3c71942a9749",
+      "cost": 1500,
+      "world_id": "66c6470c-f2ca-437b-9060-368dd5287343"
+    },
+    "frame_0033": {
+      "status": "downloaded",
+      "media_asset_id": "fa5fc8ef-bb31-4dcc-b37c-cad6671bbf55",
+      "operation_id": "534844b8-e3c3-4205-9ae4-973c7b311f5f",
+      "cost": 1500,
+      "world_id": "cc69d8fd-adc7-4810-a4da-3db90e348d7a"
+    },
+    "frame_0034": {
+      "status": "downloaded",
+      "media_asset_id": "0d59cbd2-3370-4246-a085-b6306623052a",
+      "operation_id": "13f2d74a-d2eb-4413-bf95-dc2d28675c47",
+      "cost": 1500,
+      "world_id": "96c2c668-3c04-41cc-898a-5d7871413a3d"
+    },
+    "frame_0035": {
+      "status": "downloaded",
+      "media_asset_id": "af72b684-9ebd-4517-bdbe-d562a27cf0a6",
+      "operation_id": "10727cab-2b6a-4f7c-a221-9a3bf40e4bdb",
+      "cost": 1500,
+      "world_id": "9785ac97-e183-4839-be25-7a9de4d5f323"
+    },
+    "frame_0037": {
+      "status": "downloaded",
+      "media_asset_id": "44bac353-82ac-49d2-8f8f-6b972006693d",
+      "operation_id": "701f08cb-7684-4837-83f9-6f045e14d2cb",
+      "cost": 1500,
+      "world_id": "f7a13bf6-89ac-4bfa-8575-0aca4c2906d0"
+    },
+    "frame_0038": {
+      "status": "downloaded",
+      "media_asset_id": "89dbaf75-2e0c-4491-a509-2b3c4bf26a2a",
+      "operation_id": "eb35b110-0223-49c3-9fae-2e1e854b04f1",
+      "cost": 1500,
+      "world_id": "925338e4-5f8f-4e0c-8f84-d17ba6b86ab7"
+    },
+    "frame_0039": {
+      "status": "downloaded",
+      "media_asset_id": "b1e7f3a6-2bf7-4707-9e18-34d8937a8a83",
+      "operation_id": "999c7ba2-92e2-4c93-bdea-745f2e614749",
+      "cost": 1500,
+      "world_id": "97242069-d4ee-4c85-98c4-0587aec3a10e"
+    },
+    "frame_0040": {
+      "status": "downloaded",
+      "media_asset_id": "671871da-8e8b-470d-8f03-52500fb25f15",
+      "operation_id": "99cdc485-806e-4147-bf08-f02760c7f1ce",
+      "cost": 1500,
+      "world_id": "c3ccec7b-ee00-4248-a8ca-4e03f9ef228f"
+    },
+    "frame_0041": {
+      "status": "downloaded",
+      "media_asset_id": "7fcf9472-ee28-48e7-b2cd-094feb540e09",
+      "operation_id": "e0303a89-a50b-40d4-9613-78e2261b19c1",
+      "cost": 1500,
+      "world_id": "4b02c621-8720-4468-8585-aa30a4418482"
+    },
+    "frame_0042": {
+      "status": "downloaded",
+      "media_asset_id": "c48cf835-9a3d-42e8-a7c3-acbdf4311c83",
+      "operation_id": "1e57cc34-2d36-4ef2-830d-0321eab4ae28",
+      "cost": 1500,
+      "world_id": "f85dbdf2-344d-4a64-9873-7b7613f2642a"
+    },
+    "frame_0043": {
+      "status": "downloaded",
+      "media_asset_id": "5180fb46-10ce-47f9-a8e4-5257541427e9",
+      "operation_id": "2c4e4a88-a89a-45a9-a08f-2d5c37203f89",
+      "cost": 1500,
+      "world_id": "7da8422a-1085-4599-a5d2-563a55e7b471"
+    },
+    "frame_0044": {
+      "status": "downloaded",
+      "media_asset_id": "d59ef21e-3183-4814-a85e-593a6b6c8afd",
+      "operation_id": "46844c17-3e7d-4f3e-a18e-478ff99d65aa",
+      "cost": 1500,
+      "world_id": "0d44c73f-e6e2-4cfb-970e-757046b73525"
+    },
+    "frame_0045": {
+      "status": "downloaded",
+      "media_asset_id": "cb1ac8ae-4e0e-4dc4-9c98-cde4cc0c9d9f",
+      "operation_id": "e6067989-54fc-485d-9efa-c2c92eed27aa",
+      "cost": 1500,
+      "world_id": "c1c88adf-9d46-4390-a2b9-33bcd197e146"
+    },
+    "frame_0046": {
+      "status": "downloaded",
+      "media_asset_id": "ea6aaf94-eef2-47de-ab76-74e777d7b65e",
+      "operation_id": "0d282a1c-0104-4160-841a-ab1f7a7d091f",
+      "cost": 1500,
+      "world_id": "027bde3b-8271-4fad-b9a2-80a6d0e07d85"
+    },
+    "frame_0047": {
+      "status": "downloaded",
+      "media_asset_id": "80f7bae1-929c-4712-a631-9e39ced46e22",
+      "operation_id": "c8f8e95c-e14c-4a34-b956-a6382307eb85",
+      "cost": 1500,
+      "world_id": "db77fb1e-22a5-4420-9494-21782b2616fc"
+    },
+    "frame_0049": {
+      "status": "downloaded",
+      "media_asset_id": "c3a79874-7f71-441c-ad9e-f69c79fbef9a",
+      "operation_id": "7355c745-877a-466f-b383-43a64c752c84",
+      "cost": 1500,
+      "world_id": "d96f0b87-2a51-400e-a475-92c063400909"
+    },
+    "frame_0050": {
+      "status": "downloaded",
+      "media_asset_id": "06f6a779-c8b0-41cd-b2c3-69b3833a10a5",
+      "operation_id": "58017f3c-9d9e-4c9f-8ad5-e6d19d49d346",
+      "cost": 1500,
+      "world_id": "e2b15efd-e38d-4497-8f19-4e95ff00b186"
+    },
+    "frame_0051": {
+      "status": "downloaded",
+      "media_asset_id": "36f20fd5-0ed5-4249-a7c9-1a8984e2bb18",
+      "operation_id": "4457df0a-e315-422e-a5ec-f4cd7f995139",
+      "cost": 1500,
+      "world_id": "92f959f2-6075-4522-a945-b0751cf32cc3"
+    },
+    "frame_0052": {
+      "status": "downloaded",
+      "media_asset_id": "1bb7be31-f2d2-482c-a9e4-4fdaae157f54",
+      "operation_id": "2adbc787-2c87-45a7-a036-2ccd0af499a9",
+      "cost": 1500,
+      "world_id": "e8dbd0f2-4768-43b8-adc7-cc0377bc8918"
+    },
+    "frame_0053": {
+      "status": "downloaded",
+      "media_asset_id": "ba79fe3b-7fe1-4bb7-a8a7-6fa4dd0cd855",
+      "operation_id": "6d247cb4-590d-4999-a0bd-e60459b03ad4",
+      "cost": 1500,
+      "world_id": "472489bc-a1ca-4169-8362-812082ef2bc0"
+    },
+    "frame_0054": {
+      "status": "downloaded",
+      "media_asset_id": "15e4edc5-8a0b-447a-8c1c-55b8cd421cce",
+      "operation_id": "3069e229-b197-4aca-8177-60fba6fe172d",
+      "cost": 1500,
+      "world_id": "40b10bbd-dc91-4f76-a9b3-8fd4805f787e"
+    },
+    "frame_0055": {
+      "status": "downloaded",
+      "media_asset_id": "554a1129-9c0c-4450-a7ed-192e9d71f29d",
+      "operation_id": "2bef3be2-a8c8-435f-b51a-13a30f262c3b",
+      "cost": 1500,
+      "world_id": "4a4be382-2139-43a1-ad84-03d524c83657"
+    },
+    "frame_0056": {
+      "status": "downloaded",
+      "media_asset_id": "af889890-625b-4022-8a64-d55d1cafaa48",
+      "operation_id": "3774afa6-d5b2-42f6-ba8b-fbf6eb25e068",
+      "cost": 1500,
+      "world_id": "a28bbad1-571c-4751-9d09-365805f26a27"
+    },
+    "frame_0057": {
+      "status": "downloaded",
+      "media_asset_id": "df15aab4-e412-4c24-a1c1-2af928235511",
+      "operation_id": "42c2dbda-d78b-4537-84b8-a84a57fa19fb",
+      "cost": 1500,
+      "world_id": "7b80b233-da0f-4b5c-8379-cb6b0cc24663"
+    },
+    "frame_0058": {
+      "status": "downloaded",
+      "media_asset_id": "d63ba7fb-084f-4e5a-82c5-37810877ccf4",
+      "operation_id": "7fabd0a1-051b-405b-a190-db505d9bd24d",
+      "cost": 1500,
+      "world_id": "eda71513-c82d-4d5f-9bd7-d7aa1f523b5e"
+    },
+    "frame_0059": {
+      "status": "downloaded",
+      "media_asset_id": "d0f9b07e-0fb7-4d32-8573-480e149c76ec",
+      "operation_id": "e6adcd29-5ce3-422e-b609-dd9dc76e9564",
+      "cost": 1500,
+      "world_id": "5fab8391-722a-46f0-8dd3-782a53b626a2"
+    },
+    "frame_0061": {
+      "status": "downloaded",
+      "media_asset_id": "4368e195-158f-4e2c-be11-492b2fff42b9",
+      "operation_id": "6a059bee-127b-4cf7-b1c5-35985fbf0267",
+      "cost": 1500,
+      "world_id": "f2a58abb-2d0c-4d18-a8df-95500425b6b3"
+    },
+    "frame_0062": {
+      "status": "downloaded",
+      "media_asset_id": "04eeb0c2-9534-45fd-8d32-c07769257ca6",
+      "operation_id": "9db8e0f4-ab78-41e2-9adf-9f160d5f8d8a",
+      "cost": 1500,
+      "world_id": "c0d07a6b-4647-4bfe-9ad4-aa57dcfc9a1b"
+    },
+    "frame_0063": {
+      "status": "downloaded",
+      "media_asset_id": "fc968a72-118e-41f9-a664-0c5f079c3ba3",
+      "operation_id": "b1755d47-af8b-4db0-924b-ab4230596db2",
+      "cost": 1500,
+      "world_id": "f7b9c2c2-d9fc-4fe9-a686-ac8c8712d5bb"
+    },
+    "frame_0064": {
+      "status": "downloaded",
+      "media_asset_id": "0730a606-a968-411f-909d-6f500bdc9113",
+      "operation_id": "3748a985-603f-4fbc-a930-d2eac25ba4b4",
+      "cost": 1500,
+      "world_id": "6b94edd1-d37f-4a07-811d-edd7fd30610a"
+    },
+    "frame_0065": {
+      "status": "downloaded",
+      "media_asset_id": "a27fe7ff-25ac-4b53-a255-84461da907c8",
+      "operation_id": "dc92af10-a9ce-4912-91ce-d8194a0c328a",
+      "cost": 1500,
+      "world_id": "8a7ef491-fe53-4c1d-8469-e11372280ebb"
+    },
+    "frame_0066": {
+      "status": "downloaded",
+      "media_asset_id": "9acea86c-b773-4edf-b153-80638a26f79c",
+      "operation_id": "770ae7bd-5da1-4223-92f6-d9ffd423e971",
+      "cost": 1500,
+      "world_id": "9815e18f-75f9-4d59-8519-aa29cf8dcbdc"
+    },
+    "frame_0067": {
+      "status": "downloaded",
+      "media_asset_id": "f58050cf-16ed-4db0-8ea3-683aac196777",
+      "operation_id": "cd3820bf-7b0a-4ef1-8aa3-20c3f6d78685",
+      "cost": 1500,
+      "world_id": "a5dc35ca-9006-40ed-ad32-b4f467b0b777"
+    },
+    "frame_0068": {
+      "status": "downloaded",
+      "media_asset_id": "6cadd8e9-4bdb-4e30-b627-1e48e70008b3",
+      "operation_id": "4aedf2e4-0d1e-48c6-8605-de045302d3af",
+      "cost": 1500,
+      "world_id": "01ccf71c-c1f1-4279-91a8-56259aea461f"
+    },
+    "frame_0069": {
+      "status": "downloaded",
+      "media_asset_id": "d9cc0f10-03ab-43f2-ac88-45219d356635",
+      "operation_id": "f3cc9241-ff99-4c81-bf08-2c7d387bad2b",
+      "cost": 1500,
+      "world_id": "a4b287a9-0df5-4e80-801e-b135957094cf"
+    },
+    "frame_0070": {
+      "status": "downloaded",
+      "media_asset_id": "dc1d17ab-1696-4538-9e1d-309101c70e3d",
+      "operation_id": "f159b775-c04b-4470-b059-361e0b2d480b",
+      "cost": 1500,
+      "world_id": "9023e9ad-d4a0-4033-a25c-c0e10a25a9e1"
+    },
+    "frame_0071": {
+      "status": "downloaded",
+      "media_asset_id": "17694e65-3b71-4cd6-afc4-42827183b177",
+      "operation_id": "b88a406d-249c-4761-9291-dd6a91cfa5ac",
+      "cost": 1500,
+      "world_id": "e52db51b-6745-4d5f-874f-083ee51d1f44"
+    },
+    "frame_0073": {
+      "status": "downloaded",
+      "media_asset_id": "a969b047-7dc1-4c1d-b11d-be3d5280f335",
+      "operation_id": "00d5f4df-a9e2-40ff-b272-9f6332817926",
+      "cost": 1500,
+      "world_id": "7a595e66-9cd4-4030-a1bc-87e3b59d729e"
+    },
+    "frame_0074": {
+      "status": "downloaded",
+      "media_asset_id": "2b9b2e7d-b3b2-4b8c-85c3-a65b626c5e9c",
+      "operation_id": "018a61a4-d00c-4d84-9262-ac89bd7f816c",
+      "cost": 1500,
+      "world_id": "aa90b198-4a04-4d8b-a1b1-9411ea5b5c5a"
+    },
+    "frame_0075": {
+      "status": "downloaded",
+      "media_asset_id": "f1917dd7-1991-4054-9331-97b63299db9b",
+      "operation_id": "677386a5-cb84-4d53-bcb0-546d8a7b7473",
+      "cost": 1500,
+      "world_id": "2852c89c-b39e-4984-9ae5-8356df89a906"
+    },
+    "frame_0076": {
+      "status": "downloaded",
+      "media_asset_id": "e8bf8ae1-1f0a-4ca3-a802-bfb42f0bae2b",
+      "operation_id": "77c8f68f-54ba-4dfc-9241-eb33f7073288",
+      "cost": 1500,
+      "world_id": "422a5dd5-2a6e-446d-be22-c7853793e6ab"
+    },
+    "frame_0077": {
+      "status": "downloaded",
+      "media_asset_id": "2630f0a6-13d0-4fe7-977d-3f6419580c52",
+      "operation_id": "0b8aed54-a1e1-4ea5-aa04-c6d9f26ed624",
+      "cost": 1500,
+      "world_id": "5dab1de8-1b20-4e6b-adda-f2cd4e51ec90"
+    },
+    "frame_0078": {
+      "status": "downloaded",
+      "media_asset_id": "47193dcc-46b4-47ed-a4d7-4cd8b24cde8d",
+      "operation_id": "97a365c3-8182-4061-853e-7b3b04c13c30",
+      "cost": 1500,
+      "world_id": "63cb51e0-d5ec-4270-b0c6-0e07d14208c2"
+    },
+    "frame_0079": {
+      "status": "downloaded",
+      "media_asset_id": "f95cb1b3-0fb7-4126-b92c-a2e9eb0346a1",
+      "operation_id": "93081da1-2299-40fc-877a-5bcf9f5db09a",
+      "cost": 1500,
+      "world_id": "e53eefba-080b-433c-9b45-1c4561850f1b"
+    },
+    "frame_0080": {
+      "status": "downloaded",
+      "media_asset_id": "296d790d-8161-4bdf-ab1e-122fb83f8042",
+      "operation_id": "13b5a8f9-f5ca-43dd-8c5d-0209c700aa1c",
+      "cost": 1500,
+      "world_id": "6ca0e581-2150-4610-8cb2-8ba10d9191c8"
+    },
+    "frame_0081": {
+      "status": "downloaded",
+      "media_asset_id": "f4e0f6a5-2df1-4057-a80b-098499d756b7",
+      "operation_id": "ad45b4be-4757-4e30-aee0-4fb217a8e56e",
+      "cost": 1500,
+      "world_id": "931405bf-88aa-4d57-9fc4-a106d977f5aa"
+    },
+    "frame_0082": {
+      "status": "downloaded",
+      "media_asset_id": "2582ebe9-9fb5-4d9b-915d-0d17bb581496",
+      "operation_id": "3b4e00f3-f35b-4340-a0bf-349c965c67cb",
+      "cost": 1500,
+      "world_id": "9f0b32f5-deaf-4ea0-80ab-568b57553f12"
+    },
+    "frame_0083": {
+      "status": "downloaded",
+      "media_asset_id": "dacf151d-cb4a-475e-b063-03d42756305f",
+      "operation_id": "a6340c74-fdfa-4ce6-99c5-39463c4734f0",
+      "cost": 1500,
+      "world_id": "54ae185d-11fd-4887-9884-59395b49b43a"
+    },
+    "frame_0085": {
+      "status": "downloaded",
+      "media_asset_id": "e435813b-dbf9-429d-b97b-b52c37397016",
+      "operation_id": "03ca1d48-c693-44f3-b7ab-8118f897b0c3",
+      "cost": 1500,
+      "world_id": "f7781852-fab5-4aa0-8c2c-61a49445be6e"
+    },
+    "frame_0086": {
+      "status": "downloaded",
+      "media_asset_id": "ebc1a6cb-edb1-43ec-8d61-8aaaa4029dfa",
+      "operation_id": "8ccf8a87-6e63-4f67-a300-25ff3fba1494",
+      "cost": 1500,
+      "world_id": "256496f5-6431-4d2a-9f6b-7d1ada79771b"
+    },
+    "frame_0087": {
+      "status": "downloaded",
+      "media_asset_id": "08f25141-a5db-4ea9-93a6-8a7ae7458cb9",
+      "operation_id": "c81b7762-4425-4649-8bc4-edc3822a4bb7",
+      "cost": 1500,
+      "world_id": "92abf64d-25ac-4f6b-ba57-a737643f5eef"
+    },
+    "frame_0088": {
+      "status": "downloaded",
+      "media_asset_id": "de558b16-398c-4d11-b4dc-095f272fbda4",
+      "operation_id": "8e8148e9-0f2e-4941-9a0b-8cd93a7b3ca8",
+      "cost": 1500,
+      "world_id": "fe61b0c4-60a4-4d12-9a39-7a1afa5f6c24"
+    },
+    "frame_0089": {
+      "status": "downloaded",
+      "media_asset_id": "59328b77-af54-486b-9789-fdd7a288b23b",
+      "operation_id": "b24638d4-e385-4fe0-b2d1-b39cb91df530",
+      "cost": 1500,
+      "world_id": "1f4a6fdc-4ab0-46fa-9c9d-db552073e89c"
+    },
+    "frame_0090": {
+      "status": "downloaded",
+      "media_asset_id": "45df1e8e-511c-437e-8c62-731659b9650f",
+      "operation_id": "d7b0a230-88e1-43cb-9b22-436e57dec8dd",
+      "cost": 1500,
+      "world_id": "fa1c1dd0-7b10-41ea-abe4-0d8273f43283"
+    },
+    "frame_0091": {
+      "status": "downloaded",
+      "media_asset_id": "1fce1198-c223-4a7e-a6a6-14ec06d7f820",
+      "operation_id": "00d71c3c-e01d-4064-88c7-a276de9a2760",
+      "cost": 1500,
+      "world_id": "2504eb89-cde6-47bd-b2cc-831104a43585"
+    },
+    "frame_0092": {
+      "status": "downloaded",
+      "media_asset_id": "dab3472c-f417-412f-bc96-3b9daad5a60b",
+      "operation_id": "e358ba73-357e-47a8-9daf-c32da2507694",
+      "cost": 1500,
+      "world_id": "cb49649a-0df4-4333-a2c0-29faf8ee62d0"
+    },
+    "frame_0093": {
+      "status": "downloaded",
+      "media_asset_id": "288e303c-4f09-4a1a-b096-fbd2ef15fe64",
+      "operation_id": "054b2fe5-d59c-4e31-8575-b3eec098333c",
+      "cost": 1500,
+      "world_id": "ac73dc34-9b1e-4237-960b-a9d8da7cea27"
+    },
+    "frame_0094": {
+      "status": "downloaded",
+      "media_asset_id": "94e71f9f-a1d8-4e12-b91b-ad94e73a3240",
+      "operation_id": "48f1cf47-0c0d-41fa-bd26-37c7715c2178",
+      "cost": 1500,
+      "world_id": "0220dda9-9ee7-4d82-af7e-412140879d62"
+    },
+    "frame_0095": {
+      "status": "downloaded",
+      "media_asset_id": "f567d294-2e21-42ab-82c1-e6b12dcfc45b",
+      "operation_id": "f8d24e26-6dbe-44bd-8be6-de8ecfd730ac",
+      "cost": 1500,
+      "world_id": "0399515e-32af-452a-9a61-c1d90628ef27"
+    },
+    "frame_0097": {
+      "status": "downloaded",
+      "media_asset_id": "95efc51e-5678-49ba-8055-38e0ed502142",
+      "operation_id": "10a0211d-18b1-465b-afb3-1a81fdc10277",
+      "cost": 1500,
+      "world_id": "56640588-9db5-4d77-a5f9-69348fad99fd"
+    },
+    "frame_0098": {
+      "status": "downloaded",
+      "media_asset_id": "4bd55d31-9c72-41ff-80d2-ebd288157cbe",
+      "operation_id": "92ab05f0-3116-43fe-8feb-fee7cf2d57e8",
+      "cost": 1500,
+      "world_id": "e7ceccd7-bf51-48ae-92a4-3b1c67b85369"
+    },
+    "frame_0099": {
+      "status": "downloaded",
+      "media_asset_id": "9048e98a-ef95-474e-857b-323b7c33768c",
+      "operation_id": "3090ce76-3165-408f-9b84-e0674dc88e20",
+      "cost": 1500,
+      "world_id": "734edab8-7797-4b86-87a3-146c15a579a0"
+    },
+    "frame_0100": {
+      "status": "downloaded",
+      "media_asset_id": "ce555dd8-2236-44dd-a262-914eaca36273",
+      "operation_id": "cead48b2-10f3-4b6d-8987-fd961e2a9375",
+      "cost": 1500,
+      "world_id": "1ac73c9c-7ad0-4b7a-aaf9-3af96a2b85de"
+    },
+    "frame_0101": {
+      "status": "downloaded",
+      "media_asset_id": "42ba5d4a-4584-4549-b7ee-f12cd77e9ffe",
+      "operation_id": "c759354c-9989-4737-ae3d-025aac8cda68",
+      "cost": 1500,
+      "world_id": "819e78ce-0242-45ef-816e-6866e11ad119"
+    },
+    "frame_0102": {
+      "status": "downloaded",
+      "media_asset_id": "653cfd5e-febd-46a4-af54-da71157bff5b",
+      "operation_id": "0d1a8edb-a6b8-4f5b-8bb9-5264ceb7cdd4",
+      "cost": 1500,
+      "world_id": "a3713997-1b83-45ce-ad88-10486747b4cc"
+    },
+    "frame_0103": {
+      "status": "downloaded",
+      "media_asset_id": "7dc32146-befa-451f-b7b7-5c3916beee66",
+      "operation_id": "bc23371e-fb9a-4700-a7f9-bde8cb87bed1",
+      "cost": 1500,
+      "world_id": "f200cfc8-1114-4b7e-a3bd-bdd492a87502"
+    },
+    "frame_0104": {
+      "status": "downloaded",
+      "media_asset_id": "efb125ec-86c0-4081-88f7-0bbd63ea2f0a",
+      "operation_id": "aa1e359a-8442-4caf-8209-16823d93a869",
+      "cost": 1500,
+      "world_id": "6fbed873-176a-42c0-8ce4-443e76d7b32e"
+    },
+    "frame_0105": {
+      "status": "downloaded",
+      "media_asset_id": "7b4042c2-8664-48ab-a33c-642ef3aadbfb",
+      "operation_id": "9d6b08f9-6011-41bc-bf93-eeb8330fc002",
+      "cost": 1500,
+      "world_id": "8e89cdea-9f5d-44fb-bf31-4e7d14975c92"
+    },
+    "frame_0106": {
+      "status": "downloaded",
+      "media_asset_id": "9d8e0821-6727-43d7-9573-033e8429df9d",
+      "operation_id": "13664fbb-6996-44a0-b5c0-f7619004c036",
+      "cost": 1500,
+      "world_id": "dd8c2df2-683d-4643-ae5f-655f52f95651"
+    },
+    "frame_0107": {
+      "status": "downloaded",
+      "media_asset_id": "fd6c8448-88db-4d50-b3e0-30c81915d098",
+      "operation_id": "75ca5142-f16f-45a8-b20c-7c1f4e42e3c3",
+      "cost": 1500,
+      "world_id": "8757cff3-5e73-43b3-97e5-7ed854cfbaf7"
+    },
+    "frame_0109": {
+      "status": "downloaded",
+      "media_asset_id": "75ce1d07-3184-48c9-9b2b-6f897c718c5f",
+      "operation_id": "4a700640-36e1-4e3c-9587-d9ef0b990194",
+      "cost": 1500,
+      "world_id": "25144437-db9b-4d48-95eb-94a08b7956b4"
+    },
+    "frame_0110": {
+      "status": "downloaded",
+      "media_asset_id": "e5fc6dd1-5887-4966-b390-58354a512578",
+      "operation_id": "eb500fe5-81b8-4ed2-b819-c22c70adb718",
+      "cost": 1500,
+      "world_id": "bae2b68c-da7d-4f89-a2d6-07e351a37bc8"
+    },
+    "frame_0111": {
+      "status": "downloaded",
+      "media_asset_id": "328e00c5-e96c-42cb-b9d4-68f38fb2cfb7",
+      "operation_id": "6f483f99-fb9d-4448-ac17-baa7e64f5b56",
+      "cost": 1500,
+      "world_id": "3fe4c93f-d504-43f4-8f99-fe284e2a9e9b"
+    },
+    "frame_0112": {
+      "status": "downloaded",
+      "media_asset_id": "42199761-a4b7-4c28-807d-f781264ea694",
+      "operation_id": "517dcd30-d84c-4468-b31c-8a1e6a20acf1",
+      "cost": 1500,
+      "world_id": "cbf2a4e1-73df-4137-9c0e-5fb4e4a59f80"
+    },
+    "frame_0113": {
+      "status": "downloaded",
+      "media_asset_id": "4a6b3c0e-ea75-442d-8f25-51efcfe6c17c",
+      "operation_id": "8e362cb2-145a-4aa7-8c9c-25097fbacbf8",
+      "cost": 1500,
+      "world_id": "7615eefb-522a-4f0d-b791-41c702bb4053"
+    },
+    "frame_0114": {
+      "status": "downloaded",
+      "media_asset_id": "4d46b52f-ff63-4de3-8ee9-d0177374667d",
+      "operation_id": "cf506d8f-d5c0-492d-bae5-16fd9cd08c0c",
+      "cost": 1500,
+      "world_id": "c0b3059f-cb50-4819-a485-7c5e815b6e8b"
+    },
+    "frame_0115": {
+      "status": "downloaded",
+      "media_asset_id": "8a4c1685-a800-4793-8231-e42c45b6598e",
+      "operation_id": "91ed7bcf-4c0a-40c4-98b9-28211a8ff290",
+      "cost": 1500,
+      "world_id": "c2fc4a67-afe8-49ea-921b-9c58438cf157"
+    },
+    "frame_0116": {
+      "status": "downloaded",
+      "media_asset_id": "d27fabe7-0965-44f9-b59c-b1e0c382cf03",
+      "operation_id": "c026b03b-1dbe-40ba-b462-0380849d4473",
+      "cost": 1500,
+      "world_id": "f9010563-4119-40fa-8b1f-97e1434fac34"
+    },
+    "frame_0117": {
+      "status": "downloaded",
+      "media_asset_id": "bc75a231-1b60-43ec-8ed3-e2a36eef958c",
+      "operation_id": "26696f9c-6acf-4822-a7d6-3d14630271eb",
+      "cost": 1500,
+      "world_id": "f6dcb08d-a377-4700-917d-4f7cdc0211fd"
+    },
+    "frame_0118": {
+      "status": "downloaded",
+      "media_asset_id": "6d5e6624-46b6-4971-8fa5-6dd3bb572416",
+      "operation_id": "1cb3171a-99c2-410a-a0c7-70c8a7282eac",
+      "cost": 1500,
+      "world_id": "eb50cc77-f8c6-43a9-86af-fa75081cd898"
+    },
+    "frame_0119": {
+      "status": "downloaded",
+      "media_asset_id": "78c64bda-73f3-4954-bcc1-40fbd801c2f2",
+      "operation_id": "8ab697a8-f98b-4d90-b7d9-a6be6acfbb30",
+      "cost": 1500,
+      "world_id": "57bb5cc3-d20c-4892-8086-9604ed785d4a"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "frame": "frame_0066",
+  "world_id": "9815e18f-75f9-4d59-8519-aa29cf8dcbdc",
+  "operation_id": "770ae7bd-5da1-4223-92f6-d9ffd423e971",
+  "cost_credits": 1500,
+  "model": "marble-1.1",
+  "seed": 12345,
+  "downloaded_spz_resolution": "full_res",
+  "spz_urls": {
+    "500k": "https://cdn.marble.worldlabs.ai/9815e18f-75f9-4d59-8519-aa29cf8dcbdc/4c9266f3-98ab-4fdb-bd5b-aadeac77a22a_ceramic_500k.spz",
+    "100k": "https://cdn.marble.worldlabs.ai/9815e18f-75f9-4d59-8519-aa29cf8dcbdc/277b8490-ede7-42d0-ad09-b64bc043cb24_dust_100k.spz",
+    "150k": "https://cdn.marble.worldlabs.ai/9815e18f-75f9-4d59-8519-aa29cf8dcbdc/b76d9c11-8fd4-4589-97f3-b53b2014a1e8_ceramic_150k.spz",
+    "full_res": "https://cdn.marble.worldlabs.ai/9815e18f-75f9-4d59-8519-aa29cf8dcbdc/ce170fb8-0cd7-4075-a269-764508294e0b_ceramic.spz"
+  },
+  "semantics_metadata": {
+    "metric_scale_factor": 1.4552509,
+    "ground_plane_offset": 1.5118341
+  },
+  "world_marble_url": "https://marble.worldlabs.ai/world/9815e18f-75f9-4d59-8519-aa29cf8dcbdc",
+  "assets": {
+    "mesh": {
+      "collider_mesh_url": "https://cdn.marble.worldlabs.ai/9815e18f-75f9-4d59-8519-aa29cf8dcbdc/81e46ac0.glb",
+      "hq_mesh_url": null,
+      "full_res_mesh_url": null
+    },
+    "imagery": {
+      "pano_url": "https://cdn.marble.worldlabs.ai/9815e18f-75f9-4d59-8519-aa29cf8dcbdc/cf78d630-580b-4b3a-8062-9dcb8f6be2fb_panos/rgb_0.png"
+    },
+    "splats": {
+      "spz_urls": {
+        "500k": "https://cdn.marble.worldlabs.ai/9815e18f-75f9-4d59-8519-aa29cf8dcbdc/4c9266f3-98ab-4fdb-bd5b-aadeac77a22a_ceramic_500k.spz",
+        "100k": "https://cdn.marble.worldlabs.ai/9815e18f-75f9-4d59-8519-aa29cf8dcbdc/277b8490-ede7-42d0-ad09-b64bc043cb24_dust_100k.spz",
+        "150k": "https://cdn.marble.worldlabs.ai/9815e18f-75f9-4d59-8519-aa29cf8dcbdc/b76d9c11-8fd4-4589-97f3-b53b2014a1e8_ceramic_150k.spz",
+        "full_res": "https://cdn.marble.worldlabs.ai/9815e18f-75f9-4d59-8519-aa29cf8dcbdc/ce170fb8-0cd7-4075-a269-764508294e0b_ceramic.spz"
+      },
+      "semantics_metadata": {
+        "metric_scale_factor": 1.4552509,
+        "ground_plane_offset": 1.5118341
+      }
+    },
+    "thumbnail_url": "https://cdn.marble.worldlabs.ai/9815e18f-75f9-4d59-8519-aa29cf8dcbdc/b00e6d87-ae35-4401-9021-d06bf5d4bf8c_sand_mpi/thumbnail.webp",
+    "caption": "The scene is a cozy and enchanting interior, crafted in a painterly, fantastical style, evoking a warm and magical ambiance reminiscent of a fairy tale. The overall tone is one of comfort, wonder, and rustic charm, inviting peaceful contemplation. The entire dwelling is carved within the robust trunk and branches of an enormous, ancient tree, with walls and ceilings composed of gnarled wood and a dense tapestry of vibrant autumn leaves and winding vines. Three circular windows, each featuring multiple panes and offering views of a bright, sunlit autumnal landscape, are strategically placed around the space. Below one window, a plush, burnt-orange bed with soft bedding creates an inviting resting spot, while another window frames a small, comfortable armchair surrounded by more shelves filled with various items. A rustic wooden desk, laden with books, bottles, and lit candles, occupies another section of the room, suggesting a space for study or potion-making. The floor is covered with large, irregularly shaped flagstones, partially obscured by a thick layer of fallen autumn leaves, blending the interior seamlessly with the natural world. Bookshelves filled with an assortment of bottles, jars, and tomes are built into the curving wooden walls, demonstrating a blend of practicality and mystical aesthetics. The entrance to this unique abode is a rounded doorway, blending into the organic architecture of the tree, suggesting a secluded and hidden sanctuary. The 360 scene is faultless."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "frame": "frame_0093",
+  "world_id": "ac73dc34-9b1e-4237-960b-a9d8da7cea27",
+  "operation_id": "054b2fe5-d59c-4e31-8575-b3eec098333c",
+  "cost_credits": 1500,
+  "model": "marble-1.1",
+  "seed": 12345,
+  "downloaded_spz_resolution": "full_res",
+  "spz_urls": {
+    "500k": "https://cdn.marble.worldlabs.ai/ac73dc34-9b1e-4237-960b-a9d8da7cea27/7fe370ca-ea9f-4f4e-b571-4014209be7d4_ceramic_500k.spz",
+    "100k": "https://cdn.marble.worldlabs.ai/ac73dc34-9b1e-4237-960b-a9d8da7cea27/76d083bc-8fb4-4af0-bea6-6cd630c564f9_dust_100k.spz",
+    "150k": "https://cdn.marble.worldlabs.ai/ac73dc34-9b1e-4237-960b-a9d8da7cea27/a45735a2-141c-4182-88bf-2972112865bc_ceramic_150k.spz",
+    "full_res": "https://cdn.marble.worldlabs.ai/ac73dc34-9b1e-4237-960b-a9d8da7cea27/7425a29e-846e-47ca-9417-0a3101529b90_ceramic.spz"
+  },
+  "semantics_metadata": {
+    "metric_scale_factor": 1.4520503,
+    "ground_plane_offset": 1.5247889
+  },
+  "world_marble_url": "https://marble.worldlabs.ai/world/ac73dc34-9b1e-4237-960b-a9d8da7cea27",
+  "assets": {
+    "mesh": {
+      "collider_mesh_url": "https://cdn.marble.worldlabs.ai/ac73dc34-9b1e-4237-960b-a9d8da7cea27/b9b64e77.glb",
+      "hq_mesh_url": null,
+      "full_res_mesh_url": null
+    },
+    "imagery": {
+      "pano_url": "https://cdn.marble.worldlabs.ai/ac73dc34-9b1e-4237-960b-a9d8da7cea27/a28e5014-f3d4-407a-adf1-b78b84249652_panos/rgb_0.png"
+    },
+    "splats": {
+      "spz_urls": {
+        "500k": "https://cdn.marble.worldlabs.ai/ac73dc34-9b1e-4237-960b-a9d8da7cea27/7fe370ca-ea9f-4f4e-b571-4014209be7d4_ceramic_500k.spz",
+        "100k": "https://cdn.marble.worldlabs.ai/ac73dc34-9b1e-4237-960b-a9d8da7cea27/76d083bc-8fb4-4af0-bea6-6cd630c564f9_dust_100k.spz",
+        "150k": "https://cdn.marble.worldlabs.ai/ac73dc34-9b1e-4237-960b-a9d8da7cea27/a45735a2-141c-4182-88bf-2972112865bc_ceramic_150k.spz",
+        "full_res": "https://cdn.marble.worldlabs.ai/ac73dc34-9b1e-4237-960b-a9d8da7cea27/7425a29e-846e-47ca-9417-0a3101529b90_ceramic.spz"
+      },
+      "semantics_metadata": {
+        "metric_scale_factor": 1.4520503,
+        "ground_plane_offset": 1.5247889
+      }
+    },
+    "thumbnail_url": "https://cdn.marble.worldlabs.ai/ac73dc34-9b1e-4237-960b-a9d8da7cea27/ee532836-df1c-4f13-a402-fa95c0b3434b_sand_mpi/thumbnail.webp",
+    "caption": "The scene is a cozy and enchanting dwelling nestled within the roots and branches of ancient trees, rendered in a fantastical, illustrative style that evokes a sense of magical realism. The overall tone is warm and inviting, bathed in the golden hues of autumn, creating an atmosphere of serene comfort and rustic charm. The interior of this arboreal home is carved directly into the living trees, with the walls and ceiling formed by gnarled branches and intricate root systems, all adorned with a dense covering of vibrant orange and red autumnal leaves. Three large, circular windows with segmented panes offer glimpses into a sun-dappled forest outside, each framed by more intertwining branches. In the visible section, there is a desk on the far left, laden with books, flickering candles, and various glass bottles filled with colorful liquids, suggesting an alchemist's or herbalist's workspace. To the right of the desk, a comfortable bed with a plush, orange comforter and pillows is nestled against the curving wall, bathed in the soft light from a circular window. Further to the right, a smaller, cozy nook is visible, featuring another circular window and a comfortable armchair. Beyond the visible section, the dwelling seamlessly continues, perhaps with more intimate nooks for reading or creative pursuits, each lit by additional circular windows overlooking the tranquil autumn forest. The flooring throughout the space is a patchwork of irregular stone slabs, interspersed with scattered fallen leaves, mirroring the natural environment outside. The circular windows are strategically placed to maximize the influx of natural light, illuminating the rich textures of the wood and the warm colors of the foliage. The bed and the desk are positioned along the curving walls, complementing the organic architecture of the tree dwelling. The cozy armchair is placed within a slightly elevated alcove, offering a secluded spot for contemplation. The 360 scene is faultless."
+  }
+}

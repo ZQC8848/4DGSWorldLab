@@ -1,0 +1,44 @@
+{
+  "frame": "frame_0057",
+  "world_id": "7b80b233-da0f-4b5c-8379-cb6b0cc24663",
+  "operation_id": "42c2dbda-d78b-4537-84b8-a84a57fa19fb",
+  "cost_credits": 1500,
+  "model": "marble-1.1",
+  "seed": 12345,
+  "downloaded_spz_resolution": "full_res",
+  "spz_urls": {
+    "500k": "https://cdn.marble.worldlabs.ai/7b80b233-da0f-4b5c-8379-cb6b0cc24663/e483cb95-8421-4486-adfa-b388fd5f2092_ceramic_500k.spz",
+    "100k": "https://cdn.marble.worldlabs.ai/7b80b233-da0f-4b5c-8379-cb6b0cc24663/954ea124-cd67-434c-9a3a-ddeb6129e97e_dust_100k.spz",
+    "150k": "https://cdn.marble.worldlabs.ai/7b80b233-da0f-4b5c-8379-cb6b0cc24663/461d4903-67f4-40bc-808a-919389b6fcb0_ceramic_150k.spz",
+    "full_res": "https://cdn.marble.worldlabs.ai/7b80b233-da0f-4b5c-8379-cb6b0cc24663/e6f3db38-ba4a-47fc-a011-47047437d2d0_ceramic.spz"
+  },
+  "semantics_metadata": {
+    "metric_scale_factor": 1.4473221,
+    "ground_plane_offset": 1.5214869
+  },
+  "world_marble_url": "https://marble.worldlabs.ai/world/7b80b233-da0f-4b5c-8379-cb6b0cc24663",
+  "assets": {
+    "mesh": {
+      "collider_mesh_url": "https://cdn.marble.worldlabs.ai/7b80b233-da0f-4b5c-8379-cb6b0cc24663/d70175cd.glb",
+      "hq_mesh_url": null,
+      "full_res_mesh_url": null
+    },
+    "imagery": {
+      "pano_url": "https://cdn.marble.worldlabs.ai/7b80b233-da0f-4b5c-8379-cb6b0cc24663/4c47f602-d65a-496c-82ee-2c3406c8c21c_panos/rgb_0.png"
+    },
+    "splats": {
+      "spz_urls": {
+        "500k": "https://cdn.marble.worldlabs.ai/7b80b233-da0f-4b5c-8379-cb6b0cc24663/e483cb95-8421-4486-adfa-b388fd5f2092_ceramic_500k.spz",
+        "100k": "https://cdn.marble.worldlabs.ai/7b80b233-da0f-4b5c-8379-cb6b0cc24663/954ea124-cd67-434c-9a3a-ddeb6129e97e_dust_100k.spz",
+        "150k": "https://cdn.marble.worldlabs.ai/7b80b233-da0f-4b5c-8379-cb6b0cc24663/461d4903-67f4-40bc-808a-919389b6fcb0_ceramic_150k.spz",
+        "full_res": "https://cdn.marble.worldlabs.ai/7b80b233-da0f-4b5c-8379-cb6b0cc24663/e6f3db38-ba4a-47fc-a011-47047437d2d0_ceramic.spz"
+      },
+      "semantics_metadata": {
+        "metric_scale_factor": 1.4473221,
+        "ground_plane_offset": 1.5214869
+      }
+    },
+    "thumbnail_url": "https://cdn.marble.worldlabs.ai/7b80b233-da0f-4b5c-8379-cb6b0cc24663/9e9cbde3-a2d9-4dc3-b111-0d98dba81da3_sand_mpi/thumbnail.webp",
+    "caption": "The scene is a magical treehouse interior, rendered in a whimsical, painterly style that evokes a sense of cozy enchantment and rustic charm. The overall tone is warm and inviting, with rich autumn colors dominating the palette. The walls of the room are organically formed from the intertwining branches and roots of a colossal tree, creating a natural, living architecture that seamlessly blends with the surrounding foliage. Circular windows, deeply recessed into the tree structure, offer views of an idyllic, sun-drenched autumnal landscape outside, suggesting the treehouse is nestled high within a vibrant forest. The floor is covered with scattered autumn leaves and features irregularly shaped flagstones, hinting at a natural, unrefined construction. On one side of the central living space, a bed is built into the tree, adorned with a plush, orange-brown blanket and soft pillows, directly beneath another large, round window. Opposite the bed, a wooden desk with various alchemical bottles, old books, and lit candles suggests a space for study or magical practice. A small, cozy nook with another circular window and a comfortable armchair is visible further into the treehouse, implying additional private spaces within this arboreal dwelling. Bookshelves filled with scrolls and potions are carved into the tree trunk near the desk, illustrating a life of learning and mystical pursuits. The curved wooden structures and the abundance of foliage create an immersive environment that feels entirely integrated with nature. The bed is situated beneath a large circular window on one side of the main room, with the desk and bookshelves positioned opposite it, on the other side. The armchair nook is recessed further back into the tree structure, offering a more secluded area. The 360 scene is faultless."
+  }
+}

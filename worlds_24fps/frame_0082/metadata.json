@@ -1,0 +1,44 @@
+{
+  "frame": "frame_0082",
+  "world_id": "9f0b32f5-deaf-4ea0-80ab-568b57553f12",
+  "operation_id": "3b4e00f3-f35b-4340-a0bf-349c965c67cb",
+  "cost_credits": 1500,
+  "model": "marble-1.1",
+  "seed": 12345,
+  "downloaded_spz_resolution": "full_res",
+  "spz_urls": {
+    "500k": "https://cdn.marble.worldlabs.ai/9f0b32f5-deaf-4ea0-80ab-568b57553f12/2b9e0696-5932-43b8-8edb-4a38d7805731_ceramic_500k.spz",
+    "100k": "https://cdn.marble.worldlabs.ai/9f0b32f5-deaf-4ea0-80ab-568b57553f12/abbca06f-c0bb-48d7-8e1e-6b0f7c0aaa85_dust_100k.spz",
+    "150k": "https://cdn.marble.worldlabs.ai/9f0b32f5-deaf-4ea0-80ab-568b57553f12/3da2dfcf-666f-403e-8ffd-e1450eb3b9c8_ceramic_150k.spz",
+    "full_res": "https://cdn.marble.worldlabs.ai/9f0b32f5-deaf-4ea0-80ab-568b57553f12/0a1bbaa2-ec58-4d26-94be-5b5ec5cca9c0_ceramic.spz"
+  },
+  "semantics_metadata": {
+    "metric_scale_factor": 1.4606816,
+    "ground_plane_offset": 1.5216448
+  },
+  "world_marble_url": "https://marble.worldlabs.ai/world/9f0b32f5-deaf-4ea0-80ab-568b57553f12",
+  "assets": {
+    "mesh": {
+      "collider_mesh_url": "https://cdn.marble.worldlabs.ai/9f0b32f5-deaf-4ea0-80ab-568b57553f12/81c4a758.glb",
+      "hq_mesh_url": null,
+      "full_res_mesh_url": null
+    },
+    "imagery": {
+      "pano_url": "https://cdn.marble.worldlabs.ai/9f0b32f5-deaf-4ea0-80ab-568b57553f12/b278bc7e-7b10-4fb8-a75d-0e5fdb73933a_panos/rgb_0.png"
+    },
+    "splats": {
+      "spz_urls": {
+        "500k": "https://cdn.marble.worldlabs.ai/9f0b32f5-deaf-4ea0-80ab-568b57553f12/2b9e0696-5932-43b8-8edb-4a38d7805731_ceramic_500k.spz",
+        "100k": "https://cdn.marble.worldlabs.ai/9f0b32f5-deaf-4ea0-80ab-568b57553f12/abbca06f-c0bb-48d7-8e1e-6b0f7c0aaa85_dust_100k.spz",
+        "150k": "https://cdn.marble.worldlabs.ai/9f0b32f5-deaf-4ea0-80ab-568b57553f12/3da2dfcf-666f-403e-8ffd-e1450eb3b9c8_ceramic_150k.spz",
+        "full_res": "https://cdn.marble.worldlabs.ai/9f0b32f5-deaf-4ea0-80ab-568b57553f12/0a1bbaa2-ec58-4d26-94be-5b5ec5cca9c0_ceramic.spz"
+      },
+      "semantics_metadata": {
+        "metric_scale_factor": 1.4606816,
+        "ground_plane_offset": 1.5216448
+      }
+    },
+    "thumbnail_url": "https://cdn.marble.worldlabs.ai/9f0b32f5-deaf-4ea0-80ab-568b57553f12/dc746334-53cb-4f60-983f-99f726d3cbf5_sand_mpi/thumbnail.webp",
+    "caption": "The scene is a cozy and enchanting treehouse interior, rendered in a fantastical, illustrative style, evoking a warm and magical autumnal atmosphere. The overall tone is whimsical and inviting, suggesting a peaceful refuge within nature. The treehouse is built within massive, intertwined tree trunks that form the walls and ceiling, creating organic arches and nooks. These tree structures are densely covered in vibrant orange and red autumnal leaves and delicate, winding vines that are also adorned with small, glowing lights. The flooring is composed of large, irregular stone slabs, with more scattered autumn leaves carpeting the ground. Three large, circular windows, framed by thick wood, offer views of an ethereal, sun-drenched autumn forest outside, with warm, golden light filtering into the interior. On the left side of the room, a rustic wooden desk holds an array of magical items, including glowing candles, glass bottles filled with colorful liquids, and ancient-looking books. Above the desk, dried herbs hang from a wooden rack. In the center, a comfortable-looking bed with a thick, plush orange blanket and several pillows is nestled into an alcove, surrounded by leafy vines. To the right of the bed, another circular alcove functions as a cozy reading nook, featuring a single, upholstered armchair and a small, built-in bookshelf filled with more books and bottles. The main tree trunk in the center bifurcates, creating a natural divider between the sleeping area and the reading nook. The wooden desk stands against the left wall, beneath the hanging herbs. The bed is centrally located, facing the largest circular window, while the reading nook is to the right of the bed, featuring its own smaller circular window. The 360 scene is faultless."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "frame": "frame_0117",
+  "world_id": "f6dcb08d-a377-4700-917d-4f7cdc0211fd",
+  "operation_id": "26696f9c-6acf-4822-a7d6-3d14630271eb",
+  "cost_credits": 1500,
+  "model": "marble-1.1",
+  "seed": 12345,
+  "downloaded_spz_resolution": "full_res",
+  "spz_urls": {
+    "500k": "https://cdn.marble.worldlabs.ai/f6dcb08d-a377-4700-917d-4f7cdc0211fd/4beb951a-e6cf-4589-a121-f79d19fe962f_ceramic_500k.spz",
+    "100k": "https://cdn.marble.worldlabs.ai/f6dcb08d-a377-4700-917d-4f7cdc0211fd/f52fda3e-89c5-4ea4-84fb-53aee54300d8_dust_100k.spz",
+    "150k": "https://cdn.marble.worldlabs.ai/f6dcb08d-a377-4700-917d-4f7cdc0211fd/3faea05b-6fbc-4c03-8c33-62a56c16e5d1_ceramic_150k.spz",
+    "full_res": "https://cdn.marble.worldlabs.ai/f6dcb08d-a377-4700-917d-4f7cdc0211fd/c74658db-f7f9-40d1-b0ca-f226f4aeead8_ceramic.spz"
+  },
+  "semantics_metadata": {
+    "metric_scale_factor": 1.4593157,
+    "ground_plane_offset": 1.5375514
+  },
+  "world_marble_url": "https://marble.worldlabs.ai/world/f6dcb08d-a377-4700-917d-4f7cdc0211fd",
+  "assets": {
+    "mesh": {
+      "collider_mesh_url": "https://cdn.marble.worldlabs.ai/f6dcb08d-a377-4700-917d-4f7cdc0211fd/b0ddeaed.glb",
+      "hq_mesh_url": null,
+      "full_res_mesh_url": null
+    },
+    "imagery": {
+      "pano_url": "https://cdn.marble.worldlabs.ai/f6dcb08d-a377-4700-917d-4f7cdc0211fd/23ccf4bd-6afb-4df0-922b-272f09e76a52_panos/rgb_0.png"
+    },
+    "splats": {
+      "spz_urls": {
+        "500k": "https://cdn.marble.worldlabs.ai/f6dcb08d-a377-4700-917d-4f7cdc0211fd/4beb951a-e6cf-4589-a121-f79d19fe962f_ceramic_500k.spz",
+        "100k": "https://cdn.marble.worldlabs.ai/f6dcb08d-a377-4700-917d-4f7cdc0211fd/f52fda3e-89c5-4ea4-84fb-53aee54300d8_dust_100k.spz",
+        "150k": "https://cdn.marble.worldlabs.ai/f6dcb08d-a377-4700-917d-4f7cdc0211fd/3faea05b-6fbc-4c03-8c33-62a56c16e5d1_ceramic_150k.spz",
+        "full_res": "https://cdn.marble.worldlabs.ai/f6dcb08d-a377-4700-917d-4f7cdc0211fd/c74658db-f7f9-40d1-b0ca-f226f4aeead8_ceramic.spz"
+      },
+      "semantics_metadata": {
+        "metric_scale_factor": 1.4593157,
+        "ground_plane_offset": 1.5375514
+      }
+    },
+    "thumbnail_url": "https://cdn.marble.worldlabs.ai/f6dcb08d-a377-4700-917d-4f7cdc0211fd/e58ce3ee-b295-42d2-b68b-6731f360f6ba_sand_mpi/thumbnail.webp",
+    "caption": "The scene is a magical tree house interior, depicted in an enchanting and painterly style, evoking a cozy and whimsical autumnal atmosphere. The entire structure is crafted from intertwined tree branches and roots, creating an organic and immersive living space. Leaves in vibrant shades of orange, red, and gold cascade from the ceiling and adorn the walls, forming natural tapestries that envelop the viewer. The flooring is composed of large, irregular flagstones interspersed with fallen leaves, adding to the rustic charm. Multiple circular windows, reminiscent of hobbit holes, are set into the tree walls, each offering a view of a sun-drenched, leaf-filled forest. To the left, a sturdy wooden desk is laden with an assortment of bottles containing colorful liquids, old books, and lit candles, suggesting a workspace for an alchemist or scholar. Overhead, dried herbs hang from a wooden rack, further enhancing the mystical ambiance. A bookshelf filled with numerous tomes and small vials is integrated into the curved wall between two of the windows, emphasizing the theme of knowledge and enchantment. In the central area, a comfortable bed with an inviting orange blanket is nestled against a circular window, surrounded by small, delicate vines and blossoms. To the right, another circular alcove functions as a cozy reading nook, furnished with a plush armchair and illuminated by the warm light filtering through its window. The varying sizes of the tree branches create alcoves and ledges, adding architectural complexity to the organic design. The bed is positioned directly beneath the largest central window, while the desk is situated to the left of the main entrance. The bookshelf is nestled between two of the smaller circular windows. The 360 scene is faultless."
+  }
+}

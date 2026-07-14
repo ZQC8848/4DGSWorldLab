@@ -1,0 +1,44 @@
+{
+  "frame": "frame_0088",
+  "world_id": "fe61b0c4-60a4-4d12-9a39-7a1afa5f6c24",
+  "operation_id": "8e8148e9-0f2e-4941-9a0b-8cd93a7b3ca8",
+  "cost_credits": 1500,
+  "model": "marble-1.1",
+  "seed": 12345,
+  "downloaded_spz_resolution": "full_res",
+  "spz_urls": {
+    "500k": "https://cdn.marble.worldlabs.ai/fe61b0c4-60a4-4d12-9a39-7a1afa5f6c24/75da42b2-1ffb-4e4c-8697-09ed17562219_ceramic_500k.spz",
+    "100k": "https://cdn.marble.worldlabs.ai/fe61b0c4-60a4-4d12-9a39-7a1afa5f6c24/71081f06-88b6-4643-ae9f-8d84273ab51f_dust_100k.spz",
+    "150k": "https://cdn.marble.worldlabs.ai/fe61b0c4-60a4-4d12-9a39-7a1afa5f6c24/d8977b3b-35ef-492b-9172-f31aaed71808_ceramic_150k.spz",
+    "full_res": "https://cdn.marble.worldlabs.ai/fe61b0c4-60a4-4d12-9a39-7a1afa5f6c24/8c6eaf19-aae6-4edd-8893-5d707826ca42_ceramic.spz"
+  },
+  "semantics_metadata": {
+    "metric_scale_factor": 1.4687188,
+    "ground_plane_offset": 1.5230289
+  },
+  "world_marble_url": "https://marble.worldlabs.ai/world/fe61b0c4-60a4-4d12-9a39-7a1afa5f6c24",
+  "assets": {
+    "mesh": {
+      "collider_mesh_url": "https://cdn.marble.worldlabs.ai/fe61b0c4-60a4-4d12-9a39-7a1afa5f6c24/1bac1fbe.glb",
+      "hq_mesh_url": null,
+      "full_res_mesh_url": null
+    },
+    "imagery": {
+      "pano_url": "https://cdn.marble.worldlabs.ai/fe61b0c4-60a4-4d12-9a39-7a1afa5f6c24/458ecc41-3f70-47b9-ae08-44ade6dbffb8_panos/rgb_0.png"
+    },
+    "splats": {
+      "spz_urls": {
+        "500k": "https://cdn.marble.worldlabs.ai/fe61b0c4-60a4-4d12-9a39-7a1afa5f6c24/75da42b2-1ffb-4e4c-8697-09ed17562219_ceramic_500k.spz",
+        "100k": "https://cdn.marble.worldlabs.ai/fe61b0c4-60a4-4d12-9a39-7a1afa5f6c24/71081f06-88b6-4643-ae9f-8d84273ab51f_dust_100k.spz",
+        "150k": "https://cdn.marble.worldlabs.ai/fe61b0c4-60a4-4d12-9a39-7a1afa5f6c24/d8977b3b-35ef-492b-9172-f31aaed71808_ceramic_150k.spz",
+        "full_res": "https://cdn.marble.worldlabs.ai/fe61b0c4-60a4-4d12-9a39-7a1afa5f6c24/8c6eaf19-aae6-4edd-8893-5d707826ca42_ceramic.spz"
+      },
+      "semantics_metadata": {
+        "metric_scale_factor": 1.4687188,
+        "ground_plane_offset": 1.5230289
+      }
+    },
+    "thumbnail_url": "https://cdn.marble.worldlabs.ai/fe61b0c4-60a4-4d12-9a39-7a1afa5f6c24/157f8857-3164-4251-a343-a47af2072e0b_sand_mpi/thumbnail.webp",
+    "caption": "The scene is a cozy, enchanting hobgoblin dwelling nestled within an autumnal forest, rendered in a fantastical and highly detailed painting style, evoking a warm and magical tone. The entire space is intricately woven into the root systems and trunks of ancient trees, creating circular rooms with organic contours. The floor throughout the dwelling is paved with large, irregularly shaped stone slabs, over which a thick carpet of vibrant orange and red fallen leaves is scattered, giving the impression of the forest floor extending indoors. Numerous round windows with wooden frames and intricate leaded glass offer picturesque views of a sun-drenched autumnal forest, suggesting a continuous natural landscape beyond the interior. The walls are covered with climbing vines and leafy branches that display the same rich autumn colors, further blending the interior with the surrounding nature. Within this unique dwelling, a comfortable living space is formed by the natural architecture. The 360 scene is faultless."
+  }
+}

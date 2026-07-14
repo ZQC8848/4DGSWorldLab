@@ -1,0 +1,44 @@
+{
+  "frame": "frame_0032",
+  "world_id": "66c6470c-f2ca-437b-9060-368dd5287343",
+  "operation_id": "1c3c1c23-de43-4232-b354-3c71942a9749",
+  "cost_credits": 1500,
+  "model": "marble-1.1",
+  "seed": 12345,
+  "downloaded_spz_resolution": "full_res",
+  "spz_urls": {
+    "500k": "https://cdn.marble.worldlabs.ai/66c6470c-f2ca-437b-9060-368dd5287343/5e31836d-307f-4527-ae40-31fafe446498_ceramic_500k.spz",
+    "100k": "https://cdn.marble.worldlabs.ai/66c6470c-f2ca-437b-9060-368dd5287343/c3c78915-10e3-442b-992d-46c47da4ba95_dust_100k.spz",
+    "150k": "https://cdn.marble.worldlabs.ai/66c6470c-f2ca-437b-9060-368dd5287343/4a1cc576-9d51-4980-b956-a7e1187799bc_ceramic_150k.spz",
+    "full_res": "https://cdn.marble.worldlabs.ai/66c6470c-f2ca-437b-9060-368dd5287343/e61243d0-9908-489f-b302-2743919fec09_ceramic.spz"
+  },
+  "semantics_metadata": {
+    "metric_scale_factor": 1.4638216,
+    "ground_plane_offset": 1.5610859
+  },
+  "world_marble_url": "https://marble.worldlabs.ai/world/66c6470c-f2ca-437b-9060-368dd5287343",
+  "assets": {
+    "mesh": {
+      "collider_mesh_url": "https://cdn.marble.worldlabs.ai/66c6470c-f2ca-437b-9060-368dd5287343/8286f257.glb",
+      "hq_mesh_url": null,
+      "full_res_mesh_url": null
+    },
+    "imagery": {
+      "pano_url": "https://cdn.marble.worldlabs.ai/66c6470c-f2ca-437b-9060-368dd5287343/d3a35f60-969b-4149-9498-bd06e9e8781e_panos/rgb_0.png"
+    },
+    "splats": {
+      "spz_urls": {
+        "500k": "https://cdn.marble.worldlabs.ai/66c6470c-f2ca-437b-9060-368dd5287343/5e31836d-307f-4527-ae40-31fafe446498_ceramic_500k.spz",
+        "100k": "https://cdn.marble.worldlabs.ai/66c6470c-f2ca-437b-9060-368dd5287343/c3c78915-10e3-442b-992d-46c47da4ba95_dust_100k.spz",
+        "150k": "https://cdn.marble.worldlabs.ai/66c6470c-f2ca-437b-9060-368dd5287343/4a1cc576-9d51-4980-b956-a7e1187799bc_ceramic_150k.spz",
+        "full_res": "https://cdn.marble.worldlabs.ai/66c6470c-f2ca-437b-9060-368dd5287343/e61243d0-9908-489f-b302-2743919fec09_ceramic.spz"
+      },
+      "semantics_metadata": {
+        "metric_scale_factor": 1.4638216,
+        "ground_plane_offset": 1.5610859
+      }
+    },
+    "thumbnail_url": "https://cdn.marble.worldlabs.ai/66c6470c-f2ca-437b-9060-368dd5287343/4c4cd7a2-dc6d-4253-b5a5-63fd3c866a5a_sand_mpi/thumbnail.webp",
+    "caption": "The scene is a cozy and enchanting treehouse interior, rendered in a fantastical painting style with warm, inviting lighting. The overall tone is magical and serene, evoking a sense of peaceful wonder within a natural dwelling. The interior walls and ceiling are formed by the gnarled, intertwining branches and roots of a massive tree, creating organic shapes and textures throughout the space. Small, delicate pink and white flowers bloom along the woody surfaces, weaving through the branches and adding vibrant accents to the earthy tones. The floor is composed of large, irregular flagstones interspersed with fallen autumn leaves, suggesting a seamless transition between the natural exterior and the built interior. Round, multi-paned windows are carved into the tree trunk, offering glimpses of a sun-drenched, verdant forest outside, their golden light illuminating the interior. On one side of the room, a wooden desk is laden with open books, bottles, and flickering candles, indicating a space for study or potion-making. Directly opposite this study area, a comfortable bed with a plush, golden-brown comforter is nestled into a circular alcove, flanked by more flowering vines. Further around the curvature of the treehouse, another circular alcove with a smaller window contains a single, inviting armchair, suggesting a quiet reading nook. Shelves built into the tree trunk hold an array of bottles, vials, and scrolls, emphasizing the mystical or scholarly nature of the dwelling. The tree branches on the ceiling extend outwards, forming a natural canopy overhead, with subtle golden light emanating from unseen sources, creating a soft, ethereal glow. The wooden desk, laden with various items, is positioned against the wall to the left, with the large, round window acting as a central focal point. The bed is strategically placed within its circular nook, directly across from the desk, and the armchair is situated in a smaller, adjacent alcove, further around the curved wall. The 360 scene is faultless."
+  }
+}

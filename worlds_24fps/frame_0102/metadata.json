@@ -1,0 +1,44 @@
+{
+  "frame": "frame_0102",
+  "world_id": "a3713997-1b83-45ce-ad88-10486747b4cc",
+  "operation_id": "0d1a8edb-a6b8-4f5b-8bb9-5264ceb7cdd4",
+  "cost_credits": 1500,
+  "model": "marble-1.1",
+  "seed": 12345,
+  "downloaded_spz_resolution": "full_res",
+  "spz_urls": {
+    "500k": "https://cdn.marble.worldlabs.ai/a3713997-1b83-45ce-ad88-10486747b4cc/0a242dcd-cdc3-4c56-9527-8ea08f2d3791_ceramic_500k.spz",
+    "100k": "https://cdn.marble.worldlabs.ai/a3713997-1b83-45ce-ad88-10486747b4cc/b005a919-58b3-4f39-abb7-82a9a7f3ece9_dust_100k.spz",
+    "150k": "https://cdn.marble.worldlabs.ai/a3713997-1b83-45ce-ad88-10486747b4cc/972cbfff-ac60-4e3e-9e99-5404021ae190_ceramic_150k.spz",
+    "full_res": "https://cdn.marble.worldlabs.ai/a3713997-1b83-45ce-ad88-10486747b4cc/47d3ef80-d0fe-4ae5-b1c8-dcf999e8b030_ceramic.spz"
+  },
+  "semantics_metadata": {
+    "metric_scale_factor": 1.4546242,
+    "ground_plane_offset": 1.5231566
+  },
+  "world_marble_url": "https://marble.worldlabs.ai/world/a3713997-1b83-45ce-ad88-10486747b4cc",
+  "assets": {
+    "mesh": {
+      "collider_mesh_url": "https://cdn.marble.worldlabs.ai/a3713997-1b83-45ce-ad88-10486747b4cc/3127e5fc.glb",
+      "hq_mesh_url": null,
+      "full_res_mesh_url": null
+    },
+    "imagery": {
+      "pano_url": "https://cdn.marble.worldlabs.ai/a3713997-1b83-45ce-ad88-10486747b4cc/02ebfe90-7365-4dea-b5dc-487781de69ca_panos/rgb_0.png"
+    },
+    "splats": {
+      "spz_urls": {
+        "500k": "https://cdn.marble.worldlabs.ai/a3713997-1b83-45ce-ad88-10486747b4cc/0a242dcd-cdc3-4c56-9527-8ea08f2d3791_ceramic_500k.spz",
+        "100k": "https://cdn.marble.worldlabs.ai/a3713997-1b83-45ce-ad88-10486747b4cc/b005a919-58b3-4f39-abb7-82a9a7f3ece9_dust_100k.spz",
+        "150k": "https://cdn.marble.worldlabs.ai/a3713997-1b83-45ce-ad88-10486747b4cc/972cbfff-ac60-4e3e-9e99-5404021ae190_ceramic_150k.spz",
+        "full_res": "https://cdn.marble.worldlabs.ai/a3713997-1b83-45ce-ad88-10486747b4cc/47d3ef80-d0fe-4ae5-b1c8-dcf999e8b030_ceramic.spz"
+      },
+      "semantics_metadata": {
+        "metric_scale_factor": 1.4546242,
+        "ground_plane_offset": 1.5231566
+      }
+    },
+    "thumbnail_url": "https://cdn.marble.worldlabs.ai/a3713997-1b83-45ce-ad88-10486747b4cc/ad104f1a-3814-40a6-8538-758878f32dec_sand_mpi/thumbnail.webp",
+    "caption": "The scene is a fantastical treehouse interior, rendered in a painterly style with vibrant autumn hues, evoking a magical and cozy atmosphere. The overall tone is enchanting and warm, suggesting a hidden, idyllic dwelling nestled within ancient, living trees. The interior walls are formed from the gnarled, intertwining branches and roots of trees, thickly covered in rich orange and red autumn leaves, creating a seamless connection with nature. Circular windows with intricate wooden frames offer glimpses of a sun-drenched, leafy outdoor environment, suggesting the treehouse is high above the forest floor. The floor is composed of large, irregular flagstones interspersed with fallen autumn leaves, maintaining the natural aesthetic. On the left, a rustic wooden desk holds an array of alchemical vials, old books, and lit candles, implying a space for study or potion-making. Above the desk, shelves built into the tree wall display dried herbs and other arcane ingredients. In the center, a plush bed with an inviting orange blanket is nestled within another tree alcove, beneath a large round window, adorned with garlands of tiny flowers and leaves. To the right, a smaller, cozy nook with a comfortable armchair and a small bookshelf provides a perfect spot for reading or contemplation, also featuring a circular window looking out into the luminous forest. The branches overhead weave together to form a natural ceiling, adorned with more leaves and subtle, glowing accents. The right side of the scene continues the organic architecture, with more tree roots and leaves forming the structure. The flagstone floor extends throughout the space, leading seamlessly from the study area to the bedroom and the reading nook. The 360 scene is faultless."
+  }
+}

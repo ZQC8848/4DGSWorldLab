@@ -1,0 +1,44 @@
+{
+  "frame": "frame_0104",
+  "world_id": "6fbed873-176a-42c0-8ce4-443e76d7b32e",
+  "operation_id": "aa1e359a-8442-4caf-8209-16823d93a869",
+  "cost_credits": 1500,
+  "model": "marble-1.1",
+  "seed": 12345,
+  "downloaded_spz_resolution": "full_res",
+  "spz_urls": {
+    "500k": "https://cdn.marble.worldlabs.ai/6fbed873-176a-42c0-8ce4-443e76d7b32e/7b145dba-f643-43af-815d-81c32acfa041_ceramic_500k.spz",
+    "100k": "https://cdn.marble.worldlabs.ai/6fbed873-176a-42c0-8ce4-443e76d7b32e/1d32955d-dda2-4f65-b4c0-5b7d7bed7405_dust_100k.spz",
+    "150k": "https://cdn.marble.worldlabs.ai/6fbed873-176a-42c0-8ce4-443e76d7b32e/49e01149-cc4d-4218-a8a7-23b4f0b98a4a_ceramic_150k.spz",
+    "full_res": "https://cdn.marble.worldlabs.ai/6fbed873-176a-42c0-8ce4-443e76d7b32e/f8ea6c9e-651b-4f44-80bb-b7bc98f5f4ba_ceramic.spz"
+  },
+  "semantics_metadata": {
+    "metric_scale_factor": 1.4735003,
+    "ground_plane_offset": 1.5401838
+  },
+  "world_marble_url": "https://marble.worldlabs.ai/world/6fbed873-176a-42c0-8ce4-443e76d7b32e",
+  "assets": {
+    "mesh": {
+      "collider_mesh_url": "https://cdn.marble.worldlabs.ai/6fbed873-176a-42c0-8ce4-443e76d7b32e/7f555b90.glb",
+      "hq_mesh_url": null,
+      "full_res_mesh_url": null
+    },
+    "imagery": {
+      "pano_url": "https://cdn.marble.worldlabs.ai/6fbed873-176a-42c0-8ce4-443e76d7b32e/4086840b-351a-4f83-9885-69b0af80d80a_panos/rgb_0.png"
+    },
+    "splats": {
+      "spz_urls": {
+        "500k": "https://cdn.marble.worldlabs.ai/6fbed873-176a-42c0-8ce4-443e76d7b32e/7b145dba-f643-43af-815d-81c32acfa041_ceramic_500k.spz",
+        "100k": "https://cdn.marble.worldlabs.ai/6fbed873-176a-42c0-8ce4-443e76d7b32e/1d32955d-dda2-4f65-b4c0-5b7d7bed7405_dust_100k.spz",
+        "150k": "https://cdn.marble.worldlabs.ai/6fbed873-176a-42c0-8ce4-443e76d7b32e/49e01149-cc4d-4218-a8a7-23b4f0b98a4a_ceramic_150k.spz",
+        "full_res": "https://cdn.marble.worldlabs.ai/6fbed873-176a-42c0-8ce4-443e76d7b32e/f8ea6c9e-651b-4f44-80bb-b7bc98f5f4ba_ceramic.spz"
+      },
+      "semantics_metadata": {
+        "metric_scale_factor": 1.4735003,
+        "ground_plane_offset": 1.5401838
+      }
+    },
+    "thumbnail_url": "https://cdn.marble.worldlabs.ai/6fbed873-176a-42c0-8ce4-443e76d7b32e/be32b435-a048-4428-8902-e0987922b386_sand_mpi/thumbnail.webp",
+    "caption": "The scene is a magical treehouse interior, rendered in a fantastical painting style, evoking a warm and cozy autumnal atmosphere. The overall tone is enchanting and inviting, with rich, earthy colors and intricate natural details. The entire space is constructed within the massive, gnarled trunks and branches of ancient trees, whose forms create the walls and ceiling. The floor is composed of irregular stone flagstones, partially covered by a thick layer of fallen autumn leaves in shades of orange, red, and brown, creating a soft, natural carpet. Round windows, with segmented panes, punctuate the tree walls, offering views of a bright, sunlit autumnal landscape outside, suggesting the treehouse is nestled high among the canopy. These windows are reminiscent of hobbit-hole architecture, adding to the whimsical charm. Along the left wall, a sturdy wooden desk is laden with an assortment of alchemical bottles, candles, and ancient-looking books, indicating a space for study or potion-making. Herbs hang from a wooden rack above the desk. Adjacent to this, a cozy bedroom area features a large, round bed with an inviting orange blanket and pillows, perfectly nestled into an alcove formed by the tree trunk, with another round window providing a view. To the right of the bed, a smaller, circular alcove houses a plush armchair and a small bookshelf, suggesting a quiet reading nook. The tree branches and roots intricately weave throughout the interior, forming organic shelves and architectural elements, all adorned with a profusion of colorful autumn leaves. Small, glowing lights are subtly integrated into the foliage, casting a gentle, ethereal illumination throughout the space, complementing the natural light from the windows. The walls are not flat surfaces but are sculpted from the living wood, creating a sense of being truly inside a giant, ancient tree. The 360 scene is faultless."
+  }
+}

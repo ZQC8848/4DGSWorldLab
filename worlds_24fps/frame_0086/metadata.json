@@ -1,0 +1,44 @@
+{
+  "frame": "frame_0086",
+  "world_id": "256496f5-6431-4d2a-9f6b-7d1ada79771b",
+  "operation_id": "8ccf8a87-6e63-4f67-a300-25ff3fba1494",
+  "cost_credits": 1500,
+  "model": "marble-1.1",
+  "seed": 12345,
+  "downloaded_spz_resolution": "full_res",
+  "spz_urls": {
+    "500k": "https://cdn.marble.worldlabs.ai/256496f5-6431-4d2a-9f6b-7d1ada79771b/3302d3d9-7677-4913-bea3-90185dac69a8_ceramic_500k.spz",
+    "100k": "https://cdn.marble.worldlabs.ai/256496f5-6431-4d2a-9f6b-7d1ada79771b/e2cd3558-6ba2-4952-957c-f9f9736fb894_dust_100k.spz",
+    "150k": "https://cdn.marble.worldlabs.ai/256496f5-6431-4d2a-9f6b-7d1ada79771b/79971b15-13c1-4a80-aca0-3aac85372ae9_ceramic_150k.spz",
+    "full_res": "https://cdn.marble.worldlabs.ai/256496f5-6431-4d2a-9f6b-7d1ada79771b/b6fdd2ee-da05-4522-bab4-fec1684a5550_ceramic.spz"
+  },
+  "semantics_metadata": {
+    "metric_scale_factor": 1.4894986,
+    "ground_plane_offset": 1.5336862
+  },
+  "world_marble_url": "https://marble.worldlabs.ai/world/256496f5-6431-4d2a-9f6b-7d1ada79771b",
+  "assets": {
+    "mesh": {
+      "collider_mesh_url": "https://cdn.marble.worldlabs.ai/256496f5-6431-4d2a-9f6b-7d1ada79771b/ede33b26.glb",
+      "hq_mesh_url": null,
+      "full_res_mesh_url": null
+    },
+    "imagery": {
+      "pano_url": "https://cdn.marble.worldlabs.ai/256496f5-6431-4d2a-9f6b-7d1ada79771b/20559531-10ed-49bd-b52c-e0e817f49c4d_panos/rgb_0.png"
+    },
+    "splats": {
+      "spz_urls": {
+        "500k": "https://cdn.marble.worldlabs.ai/256496f5-6431-4d2a-9f6b-7d1ada79771b/3302d3d9-7677-4913-bea3-90185dac69a8_ceramic_500k.spz",
+        "100k": "https://cdn.marble.worldlabs.ai/256496f5-6431-4d2a-9f6b-7d1ada79771b/e2cd3558-6ba2-4952-957c-f9f9736fb894_dust_100k.spz",
+        "150k": "https://cdn.marble.worldlabs.ai/256496f5-6431-4d2a-9f6b-7d1ada79771b/79971b15-13c1-4a80-aca0-3aac85372ae9_ceramic_150k.spz",
+        "full_res": "https://cdn.marble.worldlabs.ai/256496f5-6431-4d2a-9f6b-7d1ada79771b/b6fdd2ee-da05-4522-bab4-fec1684a5550_ceramic.spz"
+      },
+      "semantics_metadata": {
+        "metric_scale_factor": 1.4894986,
+        "ground_plane_offset": 1.5336862
+      }
+    },
+    "thumbnail_url": "https://cdn.marble.worldlabs.ai/256496f5-6431-4d2a-9f6b-7d1ada79771b/72db1bfe-8d3b-448b-af1f-786c9bedb393_sand_mpi/thumbnail.webp",
+    "caption": "The scene is a fantastical autumn-themed treehouse interior, rendered in a painterly, immersive style with a warm and magical tone. The entire space is intricately woven into the structure of colossal tree trunks and branches, completely covered in vibrant orange and red autumnal leaves and delicate floral vines. The floor is composed of large, irregular flagstones, interspersed with scattered fallen leaves, creating a seamless connection with the natural environment. Beyond the visible study area with a wooden desk laden with books, candles, and potions, and the cozy bedroom featuring a round bed with a rust-colored blanket, the treehouse continues to unfold with additional interconnected spherical rooms and alcoves. Each subsequent room is uniquely adorned with similar autumnal foliage and natural wood elements, maintaining the enchanted forest aesthetic. Pathways of flagstones continue to wind through these organic structures, leading to other hidden nooks that might include a small dining area crafted from tree roots, a quaint kitchen with nature-inspired fittings, or even a secluded reading corner nestled among the branches, each illuminated by the warm, golden light filtering through unseen round windows or glowing magical orbs. The structural integrity of these rooms is maintained by thick, gnarled branches that intertwine overhead, forming a living canopy that suggests an upper level or an observation deck overlooking an expansive autumn forest, hinted at by the glowing light visible through the windows. Small shelves carved directly into the tree trunks, holding various mystical artifacts or botanical specimens, would be present throughout these additional spaces. The air feels perpetually golden and cozy, infused with the essence of a perpetual autumn sunset. The 360 scene is faultless."
+  }
+}

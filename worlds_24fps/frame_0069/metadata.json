@@ -1,0 +1,44 @@
+{
+  "frame": "frame_0069",
+  "world_id": "a4b287a9-0df5-4e80-801e-b135957094cf",
+  "operation_id": "f3cc9241-ff99-4c81-bf08-2c7d387bad2b",
+  "cost_credits": 1500,
+  "model": "marble-1.1",
+  "seed": 12345,
+  "downloaded_spz_resolution": "full_res",
+  "spz_urls": {
+    "500k": "https://cdn.marble.worldlabs.ai/a4b287a9-0df5-4e80-801e-b135957094cf/27dd31a5-b41b-4049-9658-d6eb0b4a0008_ceramic_500k.spz",
+    "100k": "https://cdn.marble.worldlabs.ai/a4b287a9-0df5-4e80-801e-b135957094cf/8056d43c-0945-4b24-995e-f8515c692edf_dust_100k.spz",
+    "150k": "https://cdn.marble.worldlabs.ai/a4b287a9-0df5-4e80-801e-b135957094cf/3bd97e25-27b5-49bc-9abc-75b43d531a8c_ceramic_150k.spz",
+    "full_res": "https://cdn.marble.worldlabs.ai/a4b287a9-0df5-4e80-801e-b135957094cf/4f4c3966-2575-4ffe-87d8-ba473298b452_ceramic.spz"
+  },
+  "semantics_metadata": {
+    "metric_scale_factor": 1.4758042,
+    "ground_plane_offset": 1.5307196
+  },
+  "world_marble_url": "https://marble.worldlabs.ai/world/a4b287a9-0df5-4e80-801e-b135957094cf",
+  "assets": {
+    "mesh": {
+      "collider_mesh_url": "https://cdn.marble.worldlabs.ai/a4b287a9-0df5-4e80-801e-b135957094cf/fbb9b0d5.glb",
+      "hq_mesh_url": null,
+      "full_res_mesh_url": null
+    },
+    "imagery": {
+      "pano_url": "https://cdn.marble.worldlabs.ai/a4b287a9-0df5-4e80-801e-b135957094cf/2df817af-070d-4c1f-babc-bf8c9df3e1f2_panos/rgb_0.png"
+    },
+    "splats": {
+      "spz_urls": {
+        "500k": "https://cdn.marble.worldlabs.ai/a4b287a9-0df5-4e80-801e-b135957094cf/27dd31a5-b41b-4049-9658-d6eb0b4a0008_ceramic_500k.spz",
+        "100k": "https://cdn.marble.worldlabs.ai/a4b287a9-0df5-4e80-801e-b135957094cf/8056d43c-0945-4b24-995e-f8515c692edf_dust_100k.spz",
+        "150k": "https://cdn.marble.worldlabs.ai/a4b287a9-0df5-4e80-801e-b135957094cf/3bd97e25-27b5-49bc-9abc-75b43d531a8c_ceramic_150k.spz",
+        "full_res": "https://cdn.marble.worldlabs.ai/a4b287a9-0df5-4e80-801e-b135957094cf/4f4c3966-2575-4ffe-87d8-ba473298b452_ceramic.spz"
+      },
+      "semantics_metadata": {
+        "metric_scale_factor": 1.4758042,
+        "ground_plane_offset": 1.5307196
+      }
+    },
+    "thumbnail_url": "https://cdn.marble.worldlabs.ai/a4b287a9-0df5-4e80-801e-b135957094cf/efd20b98-fb0f-4870-a200-0f62871f96ec_sand_mpi/thumbnail.webp",
+    "caption": "The scene is a fantastical treehouse interior, rendered in a highly detailed, painting-like style, evoking a magical and cozy autumn atmosphere. The overall tone is enchanting and warm, filled with vibrant colors and intricate natural elements. The interior walls are formed by intertwining tree roots and branches, covered in a dense layer of orange and red autumn leaves, creating a seamless integration with nature. Large, round windows, reminiscent of portholes, are set into the tree walls, offering views of a bright, sunlit forest beyond. On one side of the room, a wooden desk is laden with books, candles, and various glass bottles containing colorful liquids, suggesting an alchemist's or herbalist's study. Above the desk, dried herbs hang from a wooden rack, adding to the rustic, mystical ambiance. The floor is composed of large, irregular stone slabs, with fallen leaves scattered across the surface, enhancing the autumnal theme. In another section, a plush bed with an orange blanket is nestled within a recessed alcove, framed by a round window and surrounded by creeping vines and more autumn foliage. Adjacent to the sleeping area, a smaller, similar alcove contains a comfortable armchair and a small table, creating a secluded reading nook. A bookshelf filled with various volumes is integrated into the wall between the two larger alcoves, providing storage and contributing to the scholarly feel. The tree branches and roots form a natural ceiling, creating an intricate canopy above. The wooden desk, laden with various vials and books, is positioned against the tree wall. The bed is centrally located within its alcove, facing a round window. The armchair is to the right of the bed, also within a circular alcove. The bookshelf stands between the main alcoves, forming a partition of sorts. The 360 scene is faultless."
+  }
+}

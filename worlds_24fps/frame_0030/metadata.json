@@ -1,0 +1,44 @@
+{
+  "frame": "frame_0030",
+  "world_id": "ff49273a-0b6e-4484-8eb9-7fe416431de0",
+  "operation_id": "9a9ada3f-573f-4b49-bd31-536ff9a62215",
+  "cost_credits": 1500,
+  "model": "marble-1.1",
+  "seed": 12345,
+  "downloaded_spz_resolution": "full_res",
+  "spz_urls": {
+    "500k": "https://cdn.marble.worldlabs.ai/ff49273a-0b6e-4484-8eb9-7fe416431de0/4530ab8e-731b-4d9d-8d2e-f40b3e8ece8e_ceramic_500k.spz",
+    "100k": "https://cdn.marble.worldlabs.ai/ff49273a-0b6e-4484-8eb9-7fe416431de0/3394baab-6ece-4267-8cff-76010ceae951_dust_100k.spz",
+    "150k": "https://cdn.marble.worldlabs.ai/ff49273a-0b6e-4484-8eb9-7fe416431de0/a26faa70-e929-493c-8469-a9921aede512_ceramic_150k.spz",
+    "full_res": "https://cdn.marble.worldlabs.ai/ff49273a-0b6e-4484-8eb9-7fe416431de0/18716ffd-06cd-4770-bab8-688b263e7e47_ceramic.spz"
+  },
+  "semantics_metadata": {
+    "metric_scale_factor": 1.4802959,
+    "ground_plane_offset": 1.5685772
+  },
+  "world_marble_url": "https://marble.worldlabs.ai/world/ff49273a-0b6e-4484-8eb9-7fe416431de0",
+  "assets": {
+    "mesh": {
+      "collider_mesh_url": "https://cdn.marble.worldlabs.ai/ff49273a-0b6e-4484-8eb9-7fe416431de0/5ae851cb.glb",
+      "hq_mesh_url": null,
+      "full_res_mesh_url": null
+    },
+    "imagery": {
+      "pano_url": "https://cdn.marble.worldlabs.ai/ff49273a-0b6e-4484-8eb9-7fe416431de0/78380a7d-4735-4832-a33a-71bb48150368_panos/rgb_0.png"
+    },
+    "splats": {
+      "spz_urls": {
+        "500k": "https://cdn.marble.worldlabs.ai/ff49273a-0b6e-4484-8eb9-7fe416431de0/4530ab8e-731b-4d9d-8d2e-f40b3e8ece8e_ceramic_500k.spz",
+        "100k": "https://cdn.marble.worldlabs.ai/ff49273a-0b6e-4484-8eb9-7fe416431de0/3394baab-6ece-4267-8cff-76010ceae951_dust_100k.spz",
+        "150k": "https://cdn.marble.worldlabs.ai/ff49273a-0b6e-4484-8eb9-7fe416431de0/a26faa70-e929-493c-8469-a9921aede512_ceramic_150k.spz",
+        "full_res": "https://cdn.marble.worldlabs.ai/ff49273a-0b6e-4484-8eb9-7fe416431de0/18716ffd-06cd-4770-bab8-688b263e7e47_ceramic.spz"
+      },
+      "semantics_metadata": {
+        "metric_scale_factor": 1.4802959,
+        "ground_plane_offset": 1.5685772
+      }
+    },
+    "thumbnail_url": "https://cdn.marble.worldlabs.ai/ff49273a-0b6e-4484-8eb9-7fe416431de0/30367e22-5790-47ff-af1b-10f437e225d3_sand_mpi/thumbnail.webp",
+    "caption": "The scene is a magical treehouse interior, rendered in a whimsical, painting-like style, evoking a sense of cozy enchantment and natural beauty. This arboreal dwelling embraces its organic setting, with thick, gnarled tree trunks forming structural elements and a pervasive covering of autumn leaves and blossoming vines creating a vibrant, living space. The floor is composed of large, irregular flagstones, interspersed with fallen leaves and delicate white and pink flowers, giving the impression of an indoor space that remains intimately connected to the forest floor. Beyond the immediate view, the treehouse extends further into the surrounding woodland canopy, with additional circular windows offering glimpses of sunlit foliage and distant ethereal landscapes. Imagine multiple chambers, each a circular alcove carved into the living wood, connected by gently curving stone pathways or small, elevated wooden bridges. These hidden nooks might contain a small, round library filled with ancient, leather-bound tomes, a cozy reading corner with a plush armchair, or perhaps a miniature kitchen area, subtly integrated into the tree's contours. The walls are not flat, but undulate with the natural curves of the tree, adorned with more intertwined branches, delicate string lights, and cascading floral arrangements that echo the beauty seen in the visible area. The ceiling, too, is a network of interwoven branches, forming a natural, domed canopy that filters light in dappled patterns. Small, intricately carved wooden shelves or natural crevices in the tree trunks hold various curiosities, botanical specimens, and alchemical bottles. The very air would feel soft and imbued with the scent of earth, wood, and blossoms, amplifying the magical realism of the entire habitat. The 360 scene is faultless."
+  }
+}

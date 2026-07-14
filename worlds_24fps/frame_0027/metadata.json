@@ -1,0 +1,44 @@
+{
+  "frame": "frame_0027",
+  "world_id": "7436373c-9431-4770-a70b-a70762026ca1",
+  "operation_id": "7496fe04-f12f-4be3-8ccf-f6d249d1459c",
+  "cost_credits": 1500,
+  "model": "marble-1.1",
+  "seed": 12345,
+  "downloaded_spz_resolution": "full_res",
+  "spz_urls": {
+    "500k": "https://cdn.marble.worldlabs.ai/7436373c-9431-4770-a70b-a70762026ca1/b667a30c-4cef-41cc-81a5-8a6e93df0bfd_ceramic_500k.spz",
+    "100k": "https://cdn.marble.worldlabs.ai/7436373c-9431-4770-a70b-a70762026ca1/1ceb120d-26b1-42cb-bcc8-4d91daee99d4_dust_100k.spz",
+    "150k": "https://cdn.marble.worldlabs.ai/7436373c-9431-4770-a70b-a70762026ca1/010cf112-f834-40b1-a74f-a273bca36091_ceramic_150k.spz",
+    "full_res": "https://cdn.marble.worldlabs.ai/7436373c-9431-4770-a70b-a70762026ca1/a1f4aec3-571e-4dbd-bc82-7efac3481e8e_ceramic.spz"
+  },
+  "semantics_metadata": {
+    "metric_scale_factor": 1.4887474,
+    "ground_plane_offset": 1.5659311
+  },
+  "world_marble_url": "https://marble.worldlabs.ai/world/7436373c-9431-4770-a70b-a70762026ca1",
+  "assets": {
+    "mesh": {
+      "collider_mesh_url": "https://cdn.marble.worldlabs.ai/7436373c-9431-4770-a70b-a70762026ca1/f7784ab9.glb",
+      "hq_mesh_url": null,
+      "full_res_mesh_url": null
+    },
+    "imagery": {
+      "pano_url": "https://cdn.marble.worldlabs.ai/7436373c-9431-4770-a70b-a70762026ca1/d31ed2d9-d3db-4d08-b541-df969e8d1cb5_panos/rgb_0.png"
+    },
+    "splats": {
+      "spz_urls": {
+        "500k": "https://cdn.marble.worldlabs.ai/7436373c-9431-4770-a70b-a70762026ca1/b667a30c-4cef-41cc-81a5-8a6e93df0bfd_ceramic_500k.spz",
+        "100k": "https://cdn.marble.worldlabs.ai/7436373c-9431-4770-a70b-a70762026ca1/1ceb120d-26b1-42cb-bcc8-4d91daee99d4_dust_100k.spz",
+        "150k": "https://cdn.marble.worldlabs.ai/7436373c-9431-4770-a70b-a70762026ca1/010cf112-f834-40b1-a74f-a273bca36091_ceramic_150k.spz",
+        "full_res": "https://cdn.marble.worldlabs.ai/7436373c-9431-4770-a70b-a70762026ca1/a1f4aec3-571e-4dbd-bc82-7efac3481e8e_ceramic.spz"
+      },
+      "semantics_metadata": {
+        "metric_scale_factor": 1.4887474,
+        "ground_plane_offset": 1.5659311
+      }
+    },
+    "thumbnail_url": "https://cdn.marble.worldlabs.ai/7436373c-9431-4770-a70b-a70762026ca1/c9568192-2240-4660-9af1-7eceebcf2c32_sand_mpi/thumbnail.webp",
+    "caption": "The scene is a magical treehouse interior, rendered in a whimsical, storybook-like style, evoking a sense of cozy enchantment and wonder. The overall tone is inviting and serene, with warm lighting filtering through the canopy. The room's architecture is organic, formed by the entwining branches and roots of a large tree, creating rounded walls and natural shelves. Large circular windows with ornate wooden frames offer views of a sunlit, vibrant forest outside, suggesting a continuous natural landscape surrounding the dwelling. One section of the room features a comfortable bed adorned with a plush, golden-brown blanket and pillows, nestled beside a window that allows morning light to stream directly onto it. Adjacent to the bed, a collection of delicate pink and white flowers spills over ledges and twines around the tree branches, adding splashes of color to the earthy tones of the wood. Another area reveals a rustic wooden desk with an array of books, candles, and colorful potion bottles, suggesting a space for study or craft, with another circular window providing ambient light. A nearby bookshelf, carved into the tree's trunk, holds more bottles and magical paraphernalia, reinforcing the fantastical setting. Further within the treehouse, a secluded nook with a single, comfortable armchair provides a quiet reading spot, also illuminated by its own circular window. The floor is paved with irregular stone slabs, covered in scattered autumn leaves and small flowering vines, seamlessly blending the interior with the surrounding forest. The desk with the books and potion bottles is positioned against the wall on the left side of the room, with a window directly above it. The bed with the golden-brown blanket is centrally located, under a large circular window, and the cozy armchair is to the right of the bed, also by a window. The tree's branches and roots form the structural elements of the room, providing natural supports and shelves for the various items. The 360 scene is faultless."
+  }
+}

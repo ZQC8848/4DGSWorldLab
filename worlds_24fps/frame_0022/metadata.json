@@ -1,0 +1,44 @@
+{
+  "frame": "frame_0022",
+  "world_id": "14dc7601-4efd-4bfb-b220-e7ccfa9bcde3",
+  "operation_id": "8e8b3921-7230-440b-9b9a-4d404b328fab",
+  "cost_credits": 1500,
+  "model": "marble-1.1",
+  "seed": 12345,
+  "downloaded_spz_resolution": "full_res",
+  "spz_urls": {
+    "500k": "https://cdn.marble.worldlabs.ai/14dc7601-4efd-4bfb-b220-e7ccfa9bcde3/4becbd0c-c0a1-4f16-91c4-d106ae3ccbe1_ceramic_500k.spz",
+    "100k": "https://cdn.marble.worldlabs.ai/14dc7601-4efd-4bfb-b220-e7ccfa9bcde3/88dc26f6-ac9b-4780-ad8d-fe7911e98851_dust_100k.spz",
+    "150k": "https://cdn.marble.worldlabs.ai/14dc7601-4efd-4bfb-b220-e7ccfa9bcde3/31e7dd08-22ad-4379-8e29-2898704e2210_ceramic_150k.spz",
+    "full_res": "https://cdn.marble.worldlabs.ai/14dc7601-4efd-4bfb-b220-e7ccfa9bcde3/9c8d52b7-ddc6-48d0-adf5-ae5e9dc80647_ceramic.spz"
+  },
+  "semantics_metadata": {
+    "metric_scale_factor": 1.4680226,
+    "ground_plane_offset": 1.5795099
+  },
+  "world_marble_url": "https://marble.worldlabs.ai/world/14dc7601-4efd-4bfb-b220-e7ccfa9bcde3",
+  "assets": {
+    "mesh": {
+      "collider_mesh_url": "https://cdn.marble.worldlabs.ai/14dc7601-4efd-4bfb-b220-e7ccfa9bcde3/e7b11a00.glb",
+      "hq_mesh_url": null,
+      "full_res_mesh_url": null
+    },
+    "imagery": {
+      "pano_url": "https://cdn.marble.worldlabs.ai/14dc7601-4efd-4bfb-b220-e7ccfa9bcde3/57ec022a-7816-4ea6-86cb-dcfa8aaf8533_panos/rgb_0.png"
+    },
+    "splats": {
+      "spz_urls": {
+        "500k": "https://cdn.marble.worldlabs.ai/14dc7601-4efd-4bfb-b220-e7ccfa9bcde3/4becbd0c-c0a1-4f16-91c4-d106ae3ccbe1_ceramic_500k.spz",
+        "100k": "https://cdn.marble.worldlabs.ai/14dc7601-4efd-4bfb-b220-e7ccfa9bcde3/88dc26f6-ac9b-4780-ad8d-fe7911e98851_dust_100k.spz",
+        "150k": "https://cdn.marble.worldlabs.ai/14dc7601-4efd-4bfb-b220-e7ccfa9bcde3/31e7dd08-22ad-4379-8e29-2898704e2210_ceramic_150k.spz",
+        "full_res": "https://cdn.marble.worldlabs.ai/14dc7601-4efd-4bfb-b220-e7ccfa9bcde3/9c8d52b7-ddc6-48d0-adf5-ae5e9dc80647_ceramic.spz"
+      },
+      "semantics_metadata": {
+        "metric_scale_factor": 1.4680226,
+        "ground_plane_offset": 1.5795099
+      }
+    },
+    "thumbnail_url": "https://cdn.marble.worldlabs.ai/14dc7601-4efd-4bfb-b220-e7ccfa9bcde3/ec326b82-7b55-47c1-b714-14754648fef5_sand_mpi/thumbnail.webp",
+    "caption": "The scene is a magical treehouse interior, rendered in a whimsical, fantastical painting style, evoking a sense of ancient enchantment and cozy retreat. The overall tone is serene and inviting, with warm light filtering through the canopy. The primary structure of the dwelling is formed by colossal, gnarled tree trunks and branches that intertwine to create walls and ceilings, seamlessly integrating with the natural environment. Lush green ivy and flowering vines with delicate white and pink blossoms heavily adorn these organic walls, cascading downwards and softening the edges of the wooden architecture. The floor consists of irregularly shaped, moss-covered stone pavers, interspersed with creeping ground cover, maintaining the rustic, earthy aesthetic throughout the living space. Circular windows, deeply recessed within the tree structure, are strategically placed to offer glimpses of a vibrant, sunlit forest beyond. Shelves crafted from rough-hewn wood are integrated into the tree trunks, displaying an array of glass bottles, some filled with colorful liquids, and antique books. A plush, green-blanketed bed with soft pillows occupies a central area, suggesting a comfortable sleeping arrangement. Near the bed, another circular alcove functions as a cozy reading nock, furnished with a single armchair and a small, round table. A sturdy wooden desk, laden with ancient-looking tomes, scrolls, and an assortment of alchemical apparatuses, including several glowing candles, occupies a significant portion of one wall. The 360 scene is faultless."
+  }
+}

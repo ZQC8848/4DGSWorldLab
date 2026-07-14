@@ -1,0 +1,44 @@
+{
+  "frame": "frame_0087",
+  "world_id": "92abf64d-25ac-4f6b-ba57-a737643f5eef",
+  "operation_id": "c81b7762-4425-4649-8bc4-edc3822a4bb7",
+  "cost_credits": 1500,
+  "model": "marble-1.1",
+  "seed": 12345,
+  "downloaded_spz_resolution": "full_res",
+  "spz_urls": {
+    "500k": "https://cdn.marble.worldlabs.ai/92abf64d-25ac-4f6b-ba57-a737643f5eef/960407c9-d297-4426-8106-8192876ad867_ceramic_500k.spz",
+    "100k": "https://cdn.marble.worldlabs.ai/92abf64d-25ac-4f6b-ba57-a737643f5eef/03745154-2313-4508-8afb-84bda68a2077_dust_100k.spz",
+    "150k": "https://cdn.marble.worldlabs.ai/92abf64d-25ac-4f6b-ba57-a737643f5eef/1cee78cd-cafb-43ad-866f-7e0f8560f034_ceramic_150k.spz",
+    "full_res": "https://cdn.marble.worldlabs.ai/92abf64d-25ac-4f6b-ba57-a737643f5eef/65b34865-33fd-48ba-9301-bb8c9f6b839a_ceramic.spz"
+  },
+  "semantics_metadata": {
+    "metric_scale_factor": 1.4698212,
+    "ground_plane_offset": 1.5274253
+  },
+  "world_marble_url": "https://marble.worldlabs.ai/world/92abf64d-25ac-4f6b-ba57-a737643f5eef",
+  "assets": {
+    "mesh": {
+      "collider_mesh_url": "https://cdn.marble.worldlabs.ai/92abf64d-25ac-4f6b-ba57-a737643f5eef/0ab7d5aa.glb",
+      "hq_mesh_url": null,
+      "full_res_mesh_url": null
+    },
+    "imagery": {
+      "pano_url": "https://cdn.marble.worldlabs.ai/92abf64d-25ac-4f6b-ba57-a737643f5eef/098c0a96-2cc2-4cbe-9d9f-41c3c8268d0a_panos/rgb_0.png"
+    },
+    "splats": {
+      "spz_urls": {
+        "500k": "https://cdn.marble.worldlabs.ai/92abf64d-25ac-4f6b-ba57-a737643f5eef/960407c9-d297-4426-8106-8192876ad867_ceramic_500k.spz",
+        "100k": "https://cdn.marble.worldlabs.ai/92abf64d-25ac-4f6b-ba57-a737643f5eef/03745154-2313-4508-8afb-84bda68a2077_dust_100k.spz",
+        "150k": "https://cdn.marble.worldlabs.ai/92abf64d-25ac-4f6b-ba57-a737643f5eef/1cee78cd-cafb-43ad-866f-7e0f8560f034_ceramic_150k.spz",
+        "full_res": "https://cdn.marble.worldlabs.ai/92abf64d-25ac-4f6b-ba57-a737643f5eef/65b34865-33fd-48ba-9301-bb8c9f6b839a_ceramic.spz"
+      },
+      "semantics_metadata": {
+        "metric_scale_factor": 1.4698212,
+        "ground_plane_offset": 1.5274253
+      }
+    },
+    "thumbnail_url": "https://cdn.marble.worldlabs.ai/92abf64d-25ac-4f6b-ba57-a737643f5eef/c2a1cde9-3e6f-4182-b920-0756d8b2939b_sand_mpi/thumbnail.webp",
+    "caption": "The scene is a cozy and enchanting treehouse interior, rendered in a fantastical, illustrative style, imbued with a warm, inviting, and slightly magical tone. The entire space is meticulously integrated with the surrounding trees, whose gnarled branches and roots form the structural elements of the dwelling, completely covered in vibrant autumn foliage in shades of orange, red, and gold. The floor is a mosaic of large, irregularly shaped stone pavers, interspersed with fallen leaves, creating a seamless connection to nature. Circular windows, deeply recessed into the tree trunks, offer views of an external, sun-drenched autumn landscape, suggesting the treehouse is nestled within a vast, vibrant forest. On one side, a wooden desk is laden with books, candles, and various alchemical-looking bottles and jars, indicating a study or workshop area. Adjacent to this, a bed with a plush, orange-brown comforter is nestled into another circular alcove, surrounded by a delicate vine of small, red-flowered plants. Further along, a third, smaller circular alcove features a comfortable armchair and a small side table, creating a secluded reading nook. Shelves carved directly into the tree walls are filled with more bottles and intriguing objects, suggesting a love for natural remedies or ancient lore. The intricate network of branches overhead forms a natural, organic ceiling, from which glowing orbs or fairy lights might subtly illuminate the space. The stone pavers extend throughout the entire living space, creating a unified and earthy flooring. The walls are covered in dense, leafy vines that intertwine with the tree's natural structure. The desk is positioned to the left of the central bed alcove, while the armchair nook is to its right, creating a symmetrical flow around the sleeping area. The 360 scene is faultless."
+  }
+}

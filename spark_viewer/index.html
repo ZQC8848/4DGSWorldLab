@@ -1,0 +1,151 @@
+<!doctype html>
+<html lang="zh">
+<head>
+<meta charset="utf-8">
+<title>4DGS 120帧 · 24fps · Spark</title>
+<style>
+  html, body { margin: 0; height: 100%; overflow: hidden; background: #000; }
+  #hud {
+    position: fixed; top: 12px; left: 12px; z-index: 10;
+    color: #eee; font: 13px/1.6 Consolas, monospace;
+    background: rgba(0,0,0,.55); padding: 10px 14px; border-radius: 8px;
+    user-select: none;
+  }
+  #hud b { color: #7fd4ff; font-size: 16px; }
+  #hud .dim { color: #999; }
+  #fps { width: 120px; vertical-align: middle; }
+</style>
+<script type="importmap">
+{
+  "imports": {
+    "three": "https://cdn.jsdelivr.net/npm/three@0.180.0/build/three.module.js",
+    "three/addons/": "https://cdn.jsdelivr.net/npm/three@0.180.0/examples/jsm/",
+    "@sparkjsdev/spark": "https://sparkjs.dev/releases/spark/2.1.0/spark.module.js"
+  }
+}
+</script>
+</head>
+<body>
+<div id="hud">
+  <div>帧: <b id="frameLabel">加载中…</b> <span id="playState"></span></div>
+  <div>加载: <span id="loadState">0/120</span> · 渲染: <span id="renderFps">–</span> fps</div>
+  <div>播放 fps: <input id="fps" type="range" min="1" max="30" step="1" value="24">
+       <span id="fpsLabel">24</span> · 实际切换: <span id="switchFps">–</span> fps</div>
+  <div class="dim">空格=播放/暂停 · ←/→=单步 · R=上下翻转 · 鼠标拖动=视角 · 滚轮=缩放</div>
+</div>
+<script type="module">
+import * as THREE from "three";
+import { OrbitControls } from "three/addons/controls/OrbitControls.js";
+import { SplatMesh, SparkRenderer } from "@sparkjsdev/spark";
+
+const WORLDS_DIR = "../worlds_24fps";
+const FRAMES = Array.from({ length: 120 }, (_, i) => `frame_${String(i).padStart(4, "0")}`);
+
+const renderer = new THREE.WebGLRenderer();
+renderer.setSize(innerWidth, innerHeight);
+renderer.setPixelRatio(Math.min(devicePixelRatio, 1.5));
+document.body.appendChild(renderer.domElement);
+
+const scene = new THREE.Scene();
+// Spark 2.x 必须显式创建 SparkRenderer 并挂进场景,否则 splat 不渲染(黑屏)
+const spark = new SparkRenderer({ renderer });
+scene.add(spark);
+const camera = new THREE.PerspectiveCamera(70, innerWidth / innerHeight, 0.01, 1000);
+camera.position.set(0, 0, 0.35);   // 贴近全景视点(原点),符合"定点观看"设计
+
+const controls = new OrbitControls(camera, renderer.domElement);
+controls.target.set(0, 0, 0);
+controls.enableDamping = true;
+
+addEventListener("resize", () => {
+  camera.aspect = innerWidth / innerHeight;
+  camera.updateProjectionMatrix();
+  renderer.setSize(innerWidth, innerHeight);
+});
+
+const $ = id => document.getElementById(id);
+
+// 逐帧加载 spz,常驻内存但只有当前帧挂在场景图里——
+// Spark 会处理场景中全部 splat(与 visible 无关),10 帧全挂会拖垮排序
+const group = new THREE.Group();
+group.quaternion.set(1, 0, 0, 0);  // spz 惯例 Y 向下,翻 180° 转成 three.js Y 向上
+scene.add(group);
+
+const meshes = [];
+let loaded = 0;
+for (const name of FRAMES) {
+  const mesh = new SplatMesh({ url: `${WORLDS_DIR}/${name}/world_500k.spz` });
+  meshes.push(mesh);
+  mesh.initialized.then(() => {
+    loaded++;
+    $("loadState").textContent = `${loaded}/${FRAMES.length}`;
+    if (loaded === FRAMES.length) $("loadState").textContent += " ✓ 全部就绪";
+  });
+}
+await meshes[0].initialized;
+
+let cur = 0, playing = false, fps = 24, acc = 0;
+
+let switchCount = 0;
+function show(i) {
+  group.remove(meshes[cur]);
+  cur = (i + FRAMES.length) % FRAMES.length;
+  group.add(meshes[cur]);
+  switchCount++;
+  $("frameLabel").textContent = FRAMES[cur];
+}
+group.add(meshes[0]);
+$("frameLabel").textContent = FRAMES[0];
+
+addEventListener("keydown", e => {
+  if (e.code === "Space") { playing = !playing; e.preventDefault(); }
+  else if (e.code === "ArrowRight") show(cur + 1);
+  else if (e.code === "ArrowLeft") show(cur - 1);
+  else if (e.code === "KeyR") group.rotateX(Math.PI);
+  $("playState").textContent = playing ? "▶" : "⏸";
+});
+
+$("fps").addEventListener("input", e => {
+  fps = +e.target.value;
+  $("fpsLabel").textContent = fps;
+});
+
+window.__app = { scene, camera, renderer, spark, meshes, group, THREE };
+// 调试钩子: 供外部强制渲染一帧并采样像素(rAF 被浏览器暂停时用)
+window.__debugRender = () => {
+  spark.update({ scene, camera });
+  renderer.render(scene, camera);
+  const gl = renderer.getContext();
+  const w = gl.drawingBufferWidth, h = gl.drawingBufferHeight;
+  const px = new Uint8Array(4 * 100);
+  gl.readPixels(w / 2 - 50, h / 2, 100, 1, gl.RGBA, gl.UNSIGNED_BYTE, px);
+  let nonBlack = 0, sum = 0;
+  for (let i = 0; i < 100; i++) {
+    const v = px[i * 4] + px[i * 4 + 1] + px[i * 4 + 2];
+    sum += v;
+    if (v > 10) nonBlack++;
+  }
+  return { nonBlackPixels: nonBlack + "/100", avgBrightness: (sum / 300).toFixed(1) };
+};
+
+const clock = new THREE.Clock();
+let fpsAcc = 0, fpsN = 0;
+renderer.setAnimationLoop(() => {
+  const dt = clock.getDelta();
+  fpsAcc += dt; fpsN++;
+  if (fpsAcc >= 1) {
+    $("renderFps").textContent = (fpsN / fpsAcc).toFixed(0);
+    $("switchFps").textContent = playing ? (switchCount / fpsAcc).toFixed(1) : "–";
+    fpsAcc = 0; fpsN = 0; switchCount = 0;
+  }
+  if (playing && loaded === FRAMES.length) {
+    acc += dt;
+    if (acc >= 1 / fps) { acc -= 1 / fps; show(cur + 1); }
+    if (acc > 1) acc = 0;  // 卡顿后不补帧,避免连环追赶
+  }
+  controls.update();
+  renderer.render(scene, camera);
+});
+</script>
+</body>
+</html>

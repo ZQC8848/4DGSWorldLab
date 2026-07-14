@@ -1,0 +1,44 @@
+{
+  "frame": "frame_0106",
+  "world_id": "dd8c2df2-683d-4643-ae5f-655f52f95651",
+  "operation_id": "13664fbb-6996-44a0-b5c0-f7619004c036",
+  "cost_credits": 1500,
+  "model": "marble-1.1",
+  "seed": 12345,
+  "downloaded_spz_resolution": "full_res",
+  "spz_urls": {
+    "500k": "https://cdn.marble.worldlabs.ai/dd8c2df2-683d-4643-ae5f-655f52f95651/a970d3cf-30a9-40ca-8228-738ae122a1c4_ceramic_500k.spz",
+    "100k": "https://cdn.marble.worldlabs.ai/dd8c2df2-683d-4643-ae5f-655f52f95651/38daa0e8-66c1-49d5-90ec-c29aca9d4dad_dust_100k.spz",
+    "150k": "https://cdn.marble.worldlabs.ai/dd8c2df2-683d-4643-ae5f-655f52f95651/7527dfad-f0b0-4b6c-abba-ae9ee3fd38e6_ceramic_150k.spz",
+    "full_res": "https://cdn.marble.worldlabs.ai/dd8c2df2-683d-4643-ae5f-655f52f95651/95df0727-51a7-400a-8d11-9fadffeccc95_ceramic.spz"
+  },
+  "semantics_metadata": {
+    "metric_scale_factor": 1.4624687,
+    "ground_plane_offset": 1.5262022
+  },
+  "world_marble_url": "https://marble.worldlabs.ai/world/dd8c2df2-683d-4643-ae5f-655f52f95651",
+  "assets": {
+    "mesh": {
+      "collider_mesh_url": "https://cdn.marble.worldlabs.ai/dd8c2df2-683d-4643-ae5f-655f52f95651/c009fcea.glb",
+      "hq_mesh_url": null,
+      "full_res_mesh_url": null
+    },
+    "imagery": {
+      "pano_url": "https://cdn.marble.worldlabs.ai/dd8c2df2-683d-4643-ae5f-655f52f95651/d31b4f82-825a-4d6e-9a5e-3212a44ea326_panos/rgb_0.png"
+    },
+    "splats": {
+      "spz_urls": {
+        "500k": "https://cdn.marble.worldlabs.ai/dd8c2df2-683d-4643-ae5f-655f52f95651/a970d3cf-30a9-40ca-8228-738ae122a1c4_ceramic_500k.spz",
+        "100k": "https://cdn.marble.worldlabs.ai/dd8c2df2-683d-4643-ae5f-655f52f95651/38daa0e8-66c1-49d5-90ec-c29aca9d4dad_dust_100k.spz",
+        "150k": "https://cdn.marble.worldlabs.ai/dd8c2df2-683d-4643-ae5f-655f52f95651/7527dfad-f0b0-4b6c-abba-ae9ee3fd38e6_ceramic_150k.spz",
+        "full_res": "https://cdn.marble.worldlabs.ai/dd8c2df2-683d-4643-ae5f-655f52f95651/95df0727-51a7-400a-8d11-9fadffeccc95_ceramic.spz"
+      },
+      "semantics_metadata": {
+        "metric_scale_factor": 1.4624687,
+        "ground_plane_offset": 1.5262022
+      }
+    },
+    "thumbnail_url": "https://cdn.marble.worldlabs.ai/dd8c2df2-683d-4643-ae5f-655f52f95651/6d43fec8-0bb1-4850-afba-df219aee8d13_sand_mpi/thumbnail.webp",
+    "caption": "The scene is a cozy and enchanting treehouse interior, rendered in a fantastical painting style with an autumnal and warm tone. The overall mood is magical and inviting, like a hidden dwelling straight from a fairy tale. The interior walls and ceiling are formed by intertwining tree trunks and branches, densely covered with vibrant orange and red autumn leaves, creating a natural, organic architecture. Numerous round windows are built into the tree structure, each offering a view of an outside landscape bathed in golden sunlight, suggesting a forest at sunrise or sunset. To the left, a rustic wooden desk is laden with open books, flickering candles, and an assortment of glass bottles filled with colorful liquids and dried herbs, hinting at alchemical studies or herbalism. A comfortable bed with an inviting orange blanket is nestled into the tree, directly beneath a large circular window, surrounded by more climbing vines and leaves. On the opposite side of the bed, a smaller alcove contains a plush armchair and a small bookshelf with more items, providing a quiet reading nook. The floor is paved with irregular stone slabs, interspersed with fallen autumn leaves, further blending the interior with the surrounding nature. Twisted tree roots form natural shelves and structural elements throughout the space, seamlessly integrating the living tree into the dwelling. The entire space is illuminated by a soft, warm glow, emanating from both the windows and various unseen light sources within the room. The tree branches and leaves extend far overhead, forming a natural canopy that serves as the ceiling, with glimpses of a brighter, leaf-filled sky above. The treehouse structure continues to wrap around, presenting similar windows and cozy nooks, with the organic architecture of intertwining wood and autumn foliage repeating on all sides. The 360 scene is faultless."
+  }
+}

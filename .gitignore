@@ -1,14 +1,15 @@
 # 密钥
 .env
 
-# 源视频与抽帧(1GB+ 大文件,本地保留)
+# 源视频与抽帧(GB 级大文件,本地保留)
 *.mp4
 frames_12fps/
 frames_test10/
+frames_24fps/
 
-# Marble 生成的资产(spz 每帧 ~27MB;manifest 与 metadata 保留入库)
-worlds_test/**/world.spz
-worlds_test/**/semantics_metadata.json
+# Marble 生成的资产(spz 大文件;manifest 与 metadata 保留入库)
+worlds_*/**/*.spz
+worlds_*/**/semantics_metadata.json
 
 # Python
 __pycache__/

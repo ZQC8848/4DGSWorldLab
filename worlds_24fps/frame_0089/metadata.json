@@ -1,0 +1,44 @@
+{
+  "frame": "frame_0089",
+  "world_id": "1f4a6fdc-4ab0-46fa-9c9d-db552073e89c",
+  "operation_id": "b24638d4-e385-4fe0-b2d1-b39cb91df530",
+  "cost_credits": 1500,
+  "model": "marble-1.1",
+  "seed": 12345,
+  "downloaded_spz_resolution": "full_res",
+  "spz_urls": {
+    "500k": "https://cdn.marble.worldlabs.ai/1f4a6fdc-4ab0-46fa-9c9d-db552073e89c/8b9c9c96-ba38-4568-9912-9f9f6da97c5c_ceramic_500k.spz",
+    "100k": "https://cdn.marble.worldlabs.ai/1f4a6fdc-4ab0-46fa-9c9d-db552073e89c/26c72983-7d06-4d57-85ce-93dbaf53cc7d_dust_100k.spz",
+    "150k": "https://cdn.marble.worldlabs.ai/1f4a6fdc-4ab0-46fa-9c9d-db552073e89c/c1ae5fb0-47aa-46b4-a5c0-e4c3a5c92f7c_ceramic_150k.spz",
+    "full_res": "https://cdn.marble.worldlabs.ai/1f4a6fdc-4ab0-46fa-9c9d-db552073e89c/02732a67-715f-4c00-bfae-4f1e510f2510_ceramic.spz"
+  },
+  "semantics_metadata": {
+    "metric_scale_factor": 1.4697945,
+    "ground_plane_offset": 1.5312476
+  },
+  "world_marble_url": "https://marble.worldlabs.ai/world/1f4a6fdc-4ab0-46fa-9c9d-db552073e89c",
+  "assets": {
+    "mesh": {
+      "collider_mesh_url": "https://cdn.marble.worldlabs.ai/1f4a6fdc-4ab0-46fa-9c9d-db552073e89c/f4cd46bd.glb",
+      "hq_mesh_url": null,
+      "full_res_mesh_url": null
+    },
+    "imagery": {
+      "pano_url": "https://cdn.marble.worldlabs.ai/1f4a6fdc-4ab0-46fa-9c9d-db552073e89c/8b4df51b-55a0-4744-9aca-f23eb6ea06f1_panos/rgb_0.png"
+    },
+    "splats": {
+      "spz_urls": {
+        "500k": "https://cdn.marble.worldlabs.ai/1f4a6fdc-4ab0-46fa-9c9d-db552073e89c/8b9c9c96-ba38-4568-9912-9f9f6da97c5c_ceramic_500k.spz",
+        "100k": "https://cdn.marble.worldlabs.ai/1f4a6fdc-4ab0-46fa-9c9d-db552073e89c/26c72983-7d06-4d57-85ce-93dbaf53cc7d_dust_100k.spz",
+        "150k": "https://cdn.marble.worldlabs.ai/1f4a6fdc-4ab0-46fa-9c9d-db552073e89c/c1ae5fb0-47aa-46b4-a5c0-e4c3a5c92f7c_ceramic_150k.spz",
+        "full_res": "https://cdn.marble.worldlabs.ai/1f4a6fdc-4ab0-46fa-9c9d-db552073e89c/02732a67-715f-4c00-bfae-4f1e510f2510_ceramic.spz"
+      },
+      "semantics_metadata": {
+        "metric_scale_factor": 1.4697945,
+        "ground_plane_offset": 1.5312476
+      }
+    },
+    "thumbnail_url": "https://cdn.marble.worldlabs.ai/1f4a6fdc-4ab0-46fa-9c9d-db552073e89c/02a46906-e70f-427e-877b-e7e42f5590be_sand_mpi/thumbnail.webp",
+    "caption": "The scene is a fantastical and enchanting forest dwelling, rendered in a painterly style with vibrant autumn colors, evoking a whimsical and cozy atmosphere. The interior is meticulously crafted from interwoven tree branches and roots, forming the walls and ceiling of the space. Large, circular windows with intricate wooden frames offer glimpses of a bright, sunlit forest outside, bathing the room in a warm, golden glow. On the left side of the room, a rustic wooden desk is adorned with an array of alchemical bottles, candles, and ancient-looking books, suggesting a space for study or potion-making. Shelves carved into the tree walls hold more mysterious vials and tomes, extending around the curve of the room. A plush, inviting bed with an orange blanket is nestled into an alcove, directly beneath another large circular window. Further into the dwelling, a smaller, cozy nook is visible, featuring a comfortable armchair and a small, round table, perfect for quiet contemplation. The floor is a mosaic of stone slabs, partially covered by a thick carpet of fallen autumn leaves in shades of orange, red, and brown, creating a soft and organic texture underfoot. The intertwining branches above create a natural canopy, some of which are strung with delicate lights, casting a gentle, magical luminescence. The walls are entirely composed of the living tree, with leaves and vines clinging to the surfaces, reinforcing the immersive natural environment. The desk is situated to the left of the central window, with the bed directly opposite it, creating a balanced and functional layout. The smaller nook with the armchair and table is positioned to the right of the bed, offering a separate, intimate space within the larger room. The shelves of bottles and books extend along the curved walls, connecting the different areas of the dwelling. The 360 scene is faultless."
+  }
+}

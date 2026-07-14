@@ -1,0 +1,44 @@
+{
+  "frame": "frame_0029",
+  "world_id": "0a22480b-8b0a-49f4-8f8c-423bbc678333",
+  "operation_id": "7d195a3a-1fef-46c7-8dc9-5ea0162e8b9e",
+  "cost_credits": 1500,
+  "model": "marble-1.1",
+  "seed": 12345,
+  "downloaded_spz_resolution": "full_res",
+  "spz_urls": {
+    "500k": "https://cdn.marble.worldlabs.ai/0a22480b-8b0a-49f4-8f8c-423bbc678333/3bebf0b9-fd25-421b-b912-ed0ea46a948d_ceramic_500k.spz",
+    "100k": "https://cdn.marble.worldlabs.ai/0a22480b-8b0a-49f4-8f8c-423bbc678333/09b5b52f-7d82-4dfc-8275-b710299778c6_dust_100k.spz",
+    "150k": "https://cdn.marble.worldlabs.ai/0a22480b-8b0a-49f4-8f8c-423bbc678333/80418ffc-88ee-4aa0-b674-c6b8d4b90b25_ceramic_150k.spz",
+    "full_res": "https://cdn.marble.worldlabs.ai/0a22480b-8b0a-49f4-8f8c-423bbc678333/45d2d9ca-cec3-4430-8446-490b8b5e1b1e_ceramic.spz"
+  },
+  "semantics_metadata": {
+    "metric_scale_factor": 1.484023,
+    "ground_plane_offset": 1.5691524
+  },
+  "world_marble_url": "https://marble.worldlabs.ai/world/0a22480b-8b0a-49f4-8f8c-423bbc678333",
+  "assets": {
+    "mesh": {
+      "collider_mesh_url": "https://cdn.marble.worldlabs.ai/0a22480b-8b0a-49f4-8f8c-423bbc678333/7dcd15c2.glb",
+      "hq_mesh_url": null,
+      "full_res_mesh_url": null
+    },
+    "imagery": {
+      "pano_url": "https://cdn.marble.worldlabs.ai/0a22480b-8b0a-49f4-8f8c-423bbc678333/6631ef89-e3e5-4a95-aa63-5ccc699d0c37_panos/rgb_0.png"
+    },
+    "splats": {
+      "spz_urls": {
+        "500k": "https://cdn.marble.worldlabs.ai/0a22480b-8b0a-49f4-8f8c-423bbc678333/3bebf0b9-fd25-421b-b912-ed0ea46a948d_ceramic_500k.spz",
+        "100k": "https://cdn.marble.worldlabs.ai/0a22480b-8b0a-49f4-8f8c-423bbc678333/09b5b52f-7d82-4dfc-8275-b710299778c6_dust_100k.spz",
+        "150k": "https://cdn.marble.worldlabs.ai/0a22480b-8b0a-49f4-8f8c-423bbc678333/80418ffc-88ee-4aa0-b674-c6b8d4b90b25_ceramic_150k.spz",
+        "full_res": "https://cdn.marble.worldlabs.ai/0a22480b-8b0a-49f4-8f8c-423bbc678333/45d2d9ca-cec3-4430-8446-490b8b5e1b1e_ceramic.spz"
+      },
+      "semantics_metadata": {
+        "metric_scale_factor": 1.484023,
+        "ground_plane_offset": 1.5691524
+      }
+    },
+    "thumbnail_url": "https://cdn.marble.worldlabs.ai/0a22480b-8b0a-49f4-8f8c-423bbc678333/96d2bdb6-effc-4b0a-b4db-5903b676665e_sand_mpi/thumbnail.webp",
+    "caption": "The scene is a magical treehouse interior, rendered in a whimsical, storybook-like style, evoking a sense of ancient enchantment and cozy warmth. The overall tone is serene and inviting, with soft, ambient lighting creating a dreamlike atmosphere. Large, ancient tree trunks form the structural elements of the room, their gnarled branches intertwining across the ceiling, providing a natural canopy overhead. The walls are organic, made of tree bark and earthy plaster, adorned with climbing vines, delicate white flowers, and lush green foliage that spill from hidden nooks. A large, circular window on one side offers a view into a sunlit forest, with glowing light filtering through the leaves, while another similar window is visible further into the space, partially obscured by the room's curvature. A low, wooden desk stands against one wall, laden with open books, candles, and colorful potion bottles, suggesting a space for study or craft. A plush bed with a golden-hued, fur-like blanket and soft pillows is nestled against another wall, surrounded by flowering vines. Further around the curved room, a cozy reading nook with a cushioned armchair and a small table is visible through another circular opening, illuminated by a warm, inward-shining light. The floor is composed of large, irregular stone pavers, interspersed with moss and fallen leaves, connecting the various areas of the treehouse. A small, built-in bookshelf filled with more bottles and tomes is carved into a tree trunk near the bed, creating a hidden alcove. The desk with books and potions is positioned to the left of the bed, under a large circular window. The bed is situated beneath another circular window, with the reading nook in a recessed alcove to the right of the bed. The 360 scene is faultless."
+  }
+}
